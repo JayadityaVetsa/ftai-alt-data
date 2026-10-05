@@ -1,0 +1,6 @@
+dataset,field,meaning
+projects,mw,"Documented electrical capacity, not captured demand. Blank means unknown."
+projects,eligible,Verified primary gas need with uncommitted compatible equipment and execution evidence. None currently verified.
+projects,date,"Application received, tax effective or announcement date depending on status; never automatically a commissioning date."
+fleet,aircraftYear,"Aircraft manufacture year. Does not establish engine age, retirement or availability."
+sources,status,Bulk acquisition status. Browser evidence may exist despite a download failure.

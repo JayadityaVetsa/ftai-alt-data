@@ -1,0 +1,111 @@
+[
+  {
+    "id": "comptroller",
+    "title": "Texas registered qualifying data-center projects",
+    "url": "https://comptroller.texas.gov/taxes/data-centers/data-center-lists.php",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/comptroller.html",
+    "status": "downloaded",
+    "bytes": 183066,
+    "sha256": "e867bd23745b21facc0bdcb4c5a7b17964160f9ac68aaca6aa89160416ab5cd7"
+  },
+  {
+    "id": "childress",
+    "title": "Childress Title V application",
+    "url": "https://www.tceq.texas.gov/assets/public/permitting/air/reports/applications/40835-ac.pdf",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/childress.pdf",
+    "status": "downloaded",
+    "bytes": 4350679,
+    "sha256": "94a6a144a968914e903205208cb070e6b3d73d95861e60b402fa5e10cc53f0ed"
+  },
+  {
+    "id": "sharka",
+    "title": "Sharka Title V application",
+    "url": "https://www.tceq.texas.gov/assets/public/permitting/air/reports/applications/39571-ac.pdf",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/sharka.pdf",
+    "status": "downloaded",
+    "bytes": 4941750,
+    "sha256": "16b0b8c4ed1940a710fad45c082ca3b781cba2fc8215ac69f68f1525b6a597a1"
+  },
+  {
+    "id": "cyrusone",
+    "title": "CyrusOne DFW Title V application",
+    "url": "https://www.tceq.texas.gov/assets/public/permitting/air/reports/applications/40584-ac.pdf",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/cyrusone.pdf",
+    "status": "downloaded",
+    "bytes": 22267396,
+    "sha256": "143dda2d8ab8da2057c272918070d4b29d9f88411ffa0fe46cfdc43f5364fb4a"
+  },
+  {
+    "id": "vantage11",
+    "title": "Vantage TX11 technical application",
+    "url": "https://www.tceq.texas.gov/assets/public/permitting/air/reports/applications/38602-tc.pdf",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/vantage11.pdf",
+    "status": "acquired; parsing failed",
+    "bytes": 7826188,
+    "sha256": "a95db793a8b522f33649f4fe1b2d9290b61c53e0a5a52693c0702a712b0c59e4",
+    "error": "Stream has ended unexpectedly"
+  },
+  {
+    "id": "vantage21",
+    "title": "Vantage TX21 technical application",
+    "url": "https://www.tceq.texas.gov/assets/public/permitting/air/reports/applications/38600-tc.pdf",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/vantage21.pdf",
+    "status": "downloaded",
+    "bytes": 15434947,
+    "sha256": "d8ab8408e19c06c25d4dc77cd304bac92c2650dc40fcb408332b1b3d82126643"
+  },
+  {
+    "id": "ftai_sec",
+    "title": "FTAI Q2 2026 SEC filing",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590364/000162828026051412/ftai-20260630.htm",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/ftai_sec.html",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "longhorn_record",
+    "title": "Longhorn original NSR application",
+    "url": "https://records.tceq.texas.gov/cs/idcplg?IdcService=TCEQ_EXTERNAL_SEARCH_GET_FILE&Rendition=Web&dID=8117448",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/longhorn_record.pdf",
+    "status": "downloaded",
+    "bytes": 7190327,
+    "sha256": "776fb90c5488af96062b0a616ff43e8b8b9607edc9a0b86bf02bdf8db72b58e4"
+  },
+  {
+    "id": "longhorn",
+    "title": "Longhorn current technical application",
+    "url": "https://www.tceq.texas.gov/assets/public/permitting/air/reports/applications/37589-tc.pdf",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/longhorn.pdf",
+    "status": "unavailable",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "faa_zip",
+    "title": "FAA releasable aircraft database",
+    "url": "https://registry.faa.gov/database/ReleasableAircraft.zip",
+    "published": null,
+    "accessed": "2026-10-04",
+    "file": "data/raw/faa_zip.zip",
+    "status": "downloaded",
+    "bytes": 73066252,
+    "sha256": "86ed524da7e1b7658fa5f250a91d3e3b7fa3be5784e9869887b526225eb3f186"
+  }
+]

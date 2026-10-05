@@ -1,0 +1,54 @@
+plantId,generatorId,name,mw,before,after,beforeSheet,afterSheet
+3612,1,V H Braunig,225,(OP) Operating,(OS) Out of service and NOT expected to return to service in next calendar year,Operating,Operating
+3612,2,V H Braunig,252,(OP) Operating,(OS) Out of service and NOT expected to return to service in next calendar year,Operating,Operating
+3612,3,V H Braunig,417,(OP) Operating,(OA) Out of service but expected to return to service in next calendar year,Operating,Operating
+50118,GEN10,Hal C Weaver Power Plant,34.4,(OP) Operating,(OA) Out of service but expected to return to service in next calendar year,Operating,Operating
+50118,GEN4,Hal C Weaver Power Plant,7.6,(SB) Standby/Backup: available for service but not normally used,(OS) Out of service and NOT expected to return to service in next calendar year,Operating,Operating
+50118,GEN7,Hal C Weaver Power Plant,28.8,(SB) Standby/Backup: available for service but not normally used,(OP) Operating,Operating,Operating
+50127,STD,Signal Hill Generating LLC,20,(OS) Out of service and NOT expected to return to service in next calendar year,(OP) Operating,Operating,Operating
+55358,CT1,Cottonwood Energy Company LP,198.9,(OP) Operating,(OA) Out of service but expected to return to service in next calendar year,Operating,Operating
+55358,CT2,Cottonwood Energy Company LP,198.9,(OP) Operating,(OA) Out of service but expected to return to service in next calendar year,Operating,Operating
+55358,ST1,Cottonwood Energy Company LP,159.5,(OP) Operating,(OA) Out of service but expected to return to service in next calendar year,Operating,Operating
+55358,ST2,Cottonwood Energy Company LP,159.5,(OP) Operating,(OA) Out of service but expected to return to service in next calendar year,Operating,Operating
+58378,GT2,Petra Nova Carbon Capture Cogen,82.2,(OA) Out of service but expected to return to service in next calendar year,(OP) Operating,Operating,Operating
+59381,GT-1,"The Methodist Hospital, Gas Turbine",5,(OP) Operating,(OS) Out of service and NOT expected to return to service in next calendar year,Operating,Operating
+66335,G1,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66335,G10,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66335,G2,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66335,G3,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66335,G4,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66335,G5,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66335,G6,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66335,G7,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66335,G8,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66335,G9,Timmerman Power Plant,18,"(V) Under construction, more than 50 percent complete",(OP) Operating,Planned,Operating
+66601,GT61,NRG THW GT Electric Generating Station,188.7,"(U) Under construction, less than or equal to 50 percent complete",(OP) Operating,Planned,Operating
+66601,GT62,NRG THW GT Electric Generating Station,188.7,"(U) Under construction, less than or equal to 50 percent complete",(OP) Operating,Planned,Operating
+67500,GT5,"Pin Oak Creek Energy Center, LLC",222,(L) Regulatory approvals pending. Not under construction,(OP) Operating,Planned,Operating
+67500,GT6,"Pin Oak Creek Energy Center, LLC",222,(L) Regulatory approvals pending. Not under construction,(OP) Operating,Planned,Operating
+66621,1A,Orange County Advanced Power Station,453,(T) Regulatory approvals received. Not under construction,"(TS) Construction complete, but not yet in commercial operation",Planned,Planned
+66621,1B,Orange County Advanced Power Station,453,(T) Regulatory approvals received. Not under construction,"(TS) Construction complete, but not yet in commercial operation",Planned,Planned
+66621,1C,Orange County Advanced Power Station,400,(T) Regulatory approvals received. Not under construction,"(TS) Construction complete, but not yet in commercial operation",Planned,Planned
+52176,GEN3,C R Wing Cogen Plant,75,(OP) Operating,,Operating,Retired
+3485,1,Plant X,48,(OP) Operating,,Operating,Retired
+3485,2,Plant X,98,(OP) Operating,,Operating,Retired
+3602,1,Ty Cooke,44,(OA) Out of service but expected to return to service in next calendar year,,Operating,Retired
+3602,2,Ty Cooke,53.6,(OA) Out of service but expected to return to service in next calendar year,,Operating,Retired
+3602,GT2,Ty Cooke,18.5,(OP) Operating,,Operating,Retired
+3602,GT3,Ty Cooke,22,(OP) Operating,,Operating,Retired
+3604,6A,J Robert Massengale,22,(OP) Operating,,Operating,Retired
+3604,7,J Robert Massengale,22,(OP) Operating,,Operating,Retired
+3604,8,J Robert Massengale,40,(OP) Operating,,Operating,Retired
+7131,1,Brandon Station,21,(OP) Operating,,Operating,Retired
+10789,GEN3,Sabine River Operations,6.2,(OS) Out of service and NOT expected to return to service in next calendar year,,Operating,Retired
+58930,CA1,FGE Texas II,265.2,(T) Regulatory approvals received. Not under construction,,Planned,Canceled or Postponed
+58930,GT1,FGE Texas II,238.9,(T) Regulatory approvals received. Not under construction,,Planned,Canceled or Postponed
+58930,GT2,FGE Texas II,238.9,(T) Regulatory approvals received. Not under construction,,Planned,Canceled or Postponed
+58931,CA1,FGE Texas I,265.2,(T) Regulatory approvals received. Not under construction,,Planned,Canceled or Postponed
+58931,GT1,FGE Texas I,238.9,(T) Regulatory approvals received. Not under construction,,Planned,Canceled or Postponed
+58931,GT2,FGE Texas I,238.9,(T) Regulatory approvals received. Not under construction,,Planned,Canceled or Postponed
+59924,CTG-1,Aegle Power,430,"(P) Planned for installation, but regulatory approvals not initiated",,Planned,Canceled or Postponed
+59924,CTG-2,Aegle Power,430,"(P) Planned for installation, but regulatory approvals not initiated",,Planned,Canceled or Postponed
+59924,STG-1,Aegle Power,422,"(P) Planned for installation, but regulatory approvals not initiated",,Planned,Canceled or Postponed
+60910,NPLPS,NET Power La Porte Station,25.5,(OT) Other,,Planned,Canceled or Postponed
+67742,SUGAR,Imperial Power Plant LLC,12,"(P) Planned for installation, but regulatory approvals not initiated",,Planned,Canceled or Postponed

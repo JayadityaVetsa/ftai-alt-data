@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/raw/
+data/extracted/
+__pycache__/
+.venv/
+qa/
+artifacts/node_modules/
+*.log
+*.tsbuildinfo
+*.inspect.ndjson

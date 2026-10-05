@@ -1,0 +1,12 @@
+id,label,value,unit,basis,source,locator,note
+order,Initial J&F purchase order,1465,USD million,Company disclosure,jereh_contract,"p. 1, section I",JV generator-set order. Not FTAI revenue.
+prior,"Customer orders over last 12 months, including this order",1719.8221,USD million,Company disclosure,jereh_contract,"p. 1, section II.3",Jereh group scope. Earlier orders are not automatically Mod-1 orders.
+performance,Per-equipment downward performance adjustment cap,0.1,fraction,Contract disclosure,jereh_contract,"p. 2, section III.6",Distinct from delay compensation. Combined application is undisclosed.
+delay,Per-equipment delivery-delay compensation cap,0.1,fraction,Contract disclosure,jereh_contract,"p. 2, section III.9",Do not assume a single combined 10% cap.
+mw,Mod-1 intended unit output,25,MW,Management guidance,ftai_q2,Power section,"Nameplate target, not independently verified site output."
+target,2027 Mod-1 delivery target,100,units,Management guidance,ftai_q2,Power section,"Production target, not a disclosed order unit count."
+debt,Bonds payable before issuance costs,3496.38,USD million,Reported financial,ftai_10q,"Note 6, June 30, 2026",Debt carrying amount before issuance costs; not fair value.
+cash,Unrestricted cash,337.195,USD million,Reported financial,ftai_10q,"Balance sheet, June 30, 2026",Restricted cash excluded.
+shares,Q2 weighted-average diluted shares,104.044113,million shares,Reported financial,ftai_10q,"Note 12, three months ended June 30, 2026",Valuation proxy; update for subsequent share changes.
+sci,Consolidated investments carrying value,401.803,USD million,Reported financial,ftai_10q,"Balance sheet, June 30, 2026",Not a pure SCI valuation. Editable provisional investment-equity proxy.
+geheat,GE LM2500XPRESS +G4 net heat rate,8669,Btu/kWh LHV,Manufacturer specification,ge_specs,"50 Hz, simple-cycle specification table",50 Hz rated conditions; not a Texas 60 Hz performance guarantee.
