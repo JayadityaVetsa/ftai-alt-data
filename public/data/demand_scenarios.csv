@@ -1,0 +1,4 @@
+label,phase,pue,competitorShare,capture,electricalMw,knownAvailableMw,grossMw,openMw,capturedMw,units,months,basis
+Low,0.25,1.2,0.7,0.1,621.6,115,506.6,151.98000000000002,15.198000000000002,1,12,"Conditional scenario; two named leads, assumed 2027 readiness and 12-month gap; no verified grid dates"
+Base,0.5,1.2,0.5,0.25,1243.2,115,1128.2,564.1,141.025,7,12,"Conditional scenario; two named leads, assumed 2027 readiness and 12-month gap; no verified grid dates"
+High,1,1.2,0.3,0.4,2486.4,115,2371.4,1659.98,663.9920000000001,33,12,"Conditional scenario; two named leads, assumed 2027 readiness and 12-month gap; no verified grid dates"

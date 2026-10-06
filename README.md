@@ -59,7 +59,7 @@ The memo prioritizes unresolved site commissioning, Mod-1 performance, engine el
 
 ## Validation
 
-44 model tests cover units, timing, indifference thresholds, yield/capacity constraints, cash attribution and valuation. 24 dataset tests cover duplicates, source references, null handling, CSV reconciliation, fleet-age control totals and generator identity. Browser checks cover responsive layouts, navigation, filters, input changes and chart rendering. Workbook formulas are recalculated, scenario selectors checked and all five sheets visually reviewed.
+69 model tests cover units, timing, indifference thresholds, yield/capacity constraints, cash attribution and valuation. 35 dataset tests cover duplicates, source references, null handling, CSV reconciliation, fleet-age control totals and generator identity. Browser checks cover responsive layouts, navigation, filters, input changes and chart rendering. Workbook formulas are recalculated, scenario selectors checked and all five sheets visually reviewed.
 
 Freeze a reviewed snapshot by October 11 using a dated Git tag. October 7/10/11 milestones require further manual evidence review; this repository does not schedule unattended research or certify future completeness.
 
@@ -75,3 +75,25 @@ Run build_expansion before analyze_inventory_sheet: the former publishes curated
 A single dated FTAI quote-provider observation is available as an optional reverse-valuation input, with local date and UTC trade timestamp. The linked Yahoo page was rate-limited, so it is not independently corroborated. Management's FY2027 Power and Aerospace targets are explicit benchmarks; a free sell-side consensus series remains unavailable.
 
 Supplier pressure and hiring ledgers are published by scripts/build_focus.py. Global OEM backlog and output are kept in different stock/flow scopes; uncommitted 2027–28 slots remain unknown. Hiring evidence is role-specific but historical matched counts remain unavailable. The site does not infer acceleration from mirrors or reposts.
+
+
+## Research workspace release 3 — October 6
+
+The current UI groups findings into AP productivity, Power execution, SCI II and Other research. It leads with thesis-linked answer cards and puts citations and audits in expandable drawers. Old links map to the appropriate group; original financial and engineering tools remain under Other research.
+
+Rebuild after the previous dataset steps:
+
+```powershell
+python scripts/fetch_workspace.py
+python scripts/build_workspace.py
+python scripts/test_workspace.py
+node --experimental-strip-types scripts/export_workspace_models.mjs
+npm test
+npm run build
+```
+
+fetch_workspace caches public originals and records failures. build_workspace deterministically reconstructs segment-specific AP metrics, matches cached job JSON-LD dates, exports the SCI transaction map, publishes conditional demand presets and audits existing EIA name matches. AP margin decomposition is arithmetic, not a measured mix attribution. Mod-1 quarter/start inputs remain analyst assumptions; the parts list does not establish a complete eligible-core baseline. Closed or mirrored jobs do not become additional hires. No empirical hiring growth is claimed.
+
+New monthly production models live in src/workspaceModels.ts. Whole units, feedstock depletion/replenishment, capacity caps and acceptance delays constrain output from October 2026 through March 2028. FY2027 acceptances and cumulative November deliveries are different measures. Financial layers separate turbine earnings and assumed JV earnings; operating cash excludes automatic JV distributions. Power capacity and named customer demand are independent constraints, not proof that every produced unit has a buyer.
+
+The AP scorecard uses AP revenue/cost of sales/operating expense with its existing non-GAAP segment EBITDA series. Cash notes show company-disclosed AP working-capital use alongside explicitly consolidated CFO and adjusted FCF. No AP ROIC is inferred from consolidated capital. See public/data/research-memo-v3.md for interpretation and falsification.

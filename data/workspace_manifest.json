@@ -1,0 +1,143 @@
+[
+  {
+    "id": "ap_sec_q2",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590364/000162828026051412/ftai-20260630.htm",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_ap_sec_q2.html",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "westjet",
+    "url": "https://ir.ftaiaviation.com/news-releases/news-release-details/ftai-acquires-27-boeing-737-700-aircraft-westjet",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_westjet.html",
+    "status": "unavailable",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "sci2_warehouse",
+    "url": "https://ir.ftaiaviation.com/news-releases/news-release-details/ftai-closes-20-billion-warehouse-financing-facility-strategic",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_sci2_warehouse.html",
+    "status": "unavailable",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "siemens_slots",
+    "url": "https://assets.siemens-energy.com/dam/70568add-abb0-4cb7-91bc-b41d01144be8/2026-03-30---Q2-FY26-Pre-close-group-call-script_final-pdf_Original%20file.pdf",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_siemens_slots.pdf",
+    "status": "downloaded",
+    "bytes": 91288,
+    "sha256": "aff4d44cd6ef26b94c5a4d06da3b72125cc622fbb445dcb2cd4672d9153e5754"
+  },
+  {
+    "id": "wartsila_slots",
+    "url": "https://www.wartsila.com/investors/blog/post/key-messages-and-q-a-on-interim-report-january-march-2026",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_wartsila_slots.html",
+    "status": "downloaded",
+    "bytes": 61080,
+    "sha256": "aee47f40abaa350d4dcba8188fe55ebcef86a68c151115c5394386bb62911b8a"
+  },
+  {
+    "id": "wartsila_282",
+    "url": "https://www.wartsila.com/media/news/05-10-2026-wartsila-to-supply-282-mw-onsite-power-solution-for-a-u-s-data-center-as-ai-growth-intensifies-demand-for-reliable-power-3797450",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_wartsila_282.html",
+    "status": "downloaded",
+    "bytes": 53271,
+    "sha256": "99146873b35d4981e214743a15aaa6eba23c885e71cba665906d736c9252e8f3"
+  },
+  {
+    "id": "volta_oracle",
+    "url": "https://voltagrid.com/wp-content/uploads/VoltaGrid-Press-Release_Oracle_October-15th.pdf",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_volta_oracle.pdf",
+    "status": "downloaded",
+    "bytes": 111329,
+    "sha256": "e78e2b9a18881bfcf06daba8ed99ee2f49f6b31da496d761c93fcc23f3888f92"
+  },
+  {
+    "id": "gev_crusoe_units",
+    "url": "https://www.gevernova.com/news/press-releases/ge-vernova-crusoe-announce-major-29-unit-aeroderivative-gas-turbine-deliver-ai-data-centers",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_gev_crusoe_units.html",
+    "status": "downloaded",
+    "bytes": 93204,
+    "sha256": "2fcff8b424888f3697a21fa2ab43d390ee31dfe8ede20e94667839cfe1137f2e"
+  },
+  {
+    "id": "ftai_configuration",
+    "url": "https://ca.linkedin.com/jobs/view/manufacturing-system-configuration-engineer-at-ftai-aviation-4459317477",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_ftai_configuration.html",
+    "status": "downloaded",
+    "bytes": 347831,
+    "sha256": "39757ded9cea60f62919ac9b8b5a09e227a5de0abc825924ed5e190969a0e576"
+  },
+  {
+    "id": "ftai_industrial",
+    "url": "https://ca.linkedin.com/jobs/view/industrial-engineer-at-ftai-aviation-4432280973",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_ftai_industrial.html",
+    "status": "downloaded",
+    "bytes": 270712,
+    "sha256": "27f9c10523dda89f1911d9519e46913d792daecb6e20baadb093718126b58337"
+  },
+  {
+    "id": "gensystems_test",
+    "url": "https://www.linkedin.com/jobs/view/instrumentation-controls-electronics-ic-e-technician-at-gensystems-power-solutions-4472576877",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_gensystems_test.html",
+    "status": "downloaded",
+    "bytes": 299917,
+    "sha256": "0517844233b65104d30e6edb4eb302f932312ba7b4b41c1f047b837d4a9369fd"
+  },
+  {
+    "id": "gensystems_planning",
+    "url": "https://www.linkedin.com/posts/melissa-castro0707_nowhiring-productionplanner-capacityplanning-activity-7498474195656564736-EUHB",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_gensystems_planning.html",
+    "status": "downloaded",
+    "bytes": 100362,
+    "sha256": "04009069b505f1fde6139f36230f41c2711e2246f322933487c5e67978c72ff9"
+  },
+  {
+    "id": "jereh_jt25",
+    "url": "https://en.jereh-power.com/product/25MW-Mobile-Gas-Turbine-Gensets/",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_jereh_jt25.html",
+    "status": "downloaded",
+    "bytes": 30776,
+    "sha256": "139c541d82fd60823ebd5545d6e32db00bcb8242a847bf4c2f2a73075c1ea93e"
+  },
+  {
+    "id": "epa_icis",
+    "url": "https://echo.epa.gov/tools/data-downloads/icis-air-download-summary",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_epa_icis.html",
+    "status": "downloaded",
+    "bytes": 107044,
+    "sha256": "a1b076539d79905743dbd3fc5e2fec6b0584110c7f06d563d58abdf951940ac2"
+  },
+  {
+    "id": "ercot_batch",
+    "url": "https://www.ercot.com/news/release/06182026-puct-approves-ercots",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_ercot_batch.html",
+    "status": "downloaded",
+    "bytes": 57513,
+    "sha256": "02d399ff37f0ea881a6dda9ffb0e3e68d3aa15b8ed786e2f63278768ca56908c"
+  },
+  {
+    "id": "virginia_framework",
+    "url": "https://www.governor.virginia.gov/newsroom/news-releases/2026/september-releases/name-1123696-en.html",
+    "accessed": "2026-10-06",
+    "file": "data/raw/workspace_virginia_framework.html",
+    "status": "downloaded",
+    "bytes": 46622,
+    "sha256": "779a8650a2698c313009418c5bee7b2e0344fa68284eebe27a928ecaca1b17be"
+  }
+]

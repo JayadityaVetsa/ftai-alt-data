@@ -26,6 +26,7 @@ jobs:
           python-version: '3.12'
       - run: python scripts/test_data.py
       - run: python scripts/test_expansion.py
+      - run: python scripts/test_workspace.py
       - run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

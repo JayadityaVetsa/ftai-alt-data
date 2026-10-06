@@ -1,0 +1,3 @@
+id,vehicle,aircraft,engineExposure,engineBasis,use,capital,unit,date,source
+westjet_sci2,SCI II / 2026 SPV,17,34,Two installed-engine positions per 737-700; serials and spares not inspected,On-lease WestJet aircraft → recurring MRE opportunity,,USD million,2026-09-28,westjet
+westjet_ap,FTAI-owned AP,10,20,Two positions per aircraft; not twenty qualified Mod-1 cores,Off-lease aircraft → AP exchange-pool engines/modules,,USD million,2026-09-28,westjet

@@ -1,0 +1,4 @@
+"scenario","startQuarter","growth","yield","candidates","replenishPerQuarter","conversionPerQuarter","testsPerQuarter","packagesPerQuarter","aviationCapacityPerQuarter","acceptanceLag","unitPrice","unitMargin","serviceProfit","jvProfit","opex","capex","workingCapital","tax","unit"
+"Slow","10","0.1","0.7","200","0","30","25.5","25.5","34.5","2","6","0.35","1.2","0","30","80","40","0.2","USD million except units, fractions and month lag"
+"Base","15","0.15","0.7","200","0","30","25.5","25.5","34.5","1","6","0.35","1.2","0","30","80","40","0.2","USD million except units, fractions and month lag"
+"Fast","20","0.2","0.7","200","0","30","25.5","25.5","34.5","0","6","0.35","1.2","0","30","80","40","0.2","USD million except units, fractions and month lag"

@@ -1,0 +1,4 @@
+label,value,unit,status,source,note
+H1 2026 Aerospace inventory working-capital use,407,USD million,Company cash-flow explanation,ftai_q2,AP-specific growth cash use; not ending inventory or an isolated segment CFO.
+H1 2026 consolidated operating cash flow,-265.3,USD million,Reported consolidated cash flow,ftai_q2,Do not compare directly with AP EBITDA as segment cash conversion.
+H1 2026 consolidated adjusted free cash flow,255,USD million,Company non-GAAP measure,ftai_q2,Includes investing cash and adjustments; not AP recurring cash earnings.

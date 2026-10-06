@@ -1,0 +1,6 @@
+supplier,technology,finding,window,implication,source
+GE Vernova,Gas turbines; global scope,"116 GW backlog plus reserved slots; annual output pace 20 GW, rising to 24 GW in 2028",2027–28 free slots not disclosed,Supports scarcity; does not measure small-aero or US hyperscaler unmet MW.,gev_capacity
+Siemens Energy,Gas Services; global scope,Gas turbine capacity described as sold out until FY2028,March 2026 observation; FY2029 slots filling,Second OEM confirms tight supply. No model-specific FTAI-substitutable capacity inferred.,siemens_slots
+Wärtsilä,Reciprocating gas engines,"282 MW US data-center order: equipment 2028, operation 2029",Oct 5 announcement; Q1 Q&A had some 2027/28 slots,Demand and later lead times are real; a universal unavailable-supply claim would be too strong.,wartsila_282
+VoltaGrid,Multi-site on-site gas power,"2,300 MW Oracle agreement",Site-specific timing unresolved here,"Customers commit to alternatives. Contracted MW is competing supply, not FTAI's open market.",volta_oracle
+Bergen Engines,Reciprocating gas engines,438 MW contract plus 310 MW LOI for Crusoe,Phased through 2027; site allocation unknown,Keep firm and contingent supply separate; do not guess which campus it supplies.,crusoe_bergen
