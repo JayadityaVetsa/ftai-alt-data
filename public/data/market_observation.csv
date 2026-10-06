@@ -1,0 +1,2 @@
+price,currency,latestTradeUtc,localDate,provider,source,consensus,note
+164.7,USD,2026-10-06T00:15:00Z,2026-10-05,Finance tool quote observation,market_quote,,One dated provider observation; underlying quote page not independently accessible. No paid consensus feed used.

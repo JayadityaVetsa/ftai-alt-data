@@ -1,0 +1,7 @@
+family,category,partNumber,serialNumber,quantity,condition,powerEligibility,leadTimeDays,basis,source
+CFM56-5B,Fan,,,,,Unverified,,Historical program capability; not a stock listing,ceros_inventory
+CFM56-5B,Core,,,,,Unverified,,Historical program capability; not a stock listing,ceros_inventory
+CFM56-5B,LPT,,,,,Unverified,,Historical program capability; not a stock listing,ceros_inventory
+CFM56-7B,Fan,,,,,Unverified,,Historical program capability; not a stock listing,ceros_inventory
+CFM56-7B,Core,,,,,Unverified,,Historical program capability; not a stock listing,ceros_inventory
+CFM56-7B,LPT,,,,,Unverified,,Historical program capability; not a stock listing,ceros_inventory

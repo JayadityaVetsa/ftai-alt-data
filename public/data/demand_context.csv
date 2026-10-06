@@ -1,0 +1,5 @@
+id,label,value,unit,basis,source,locator,note
+dominion_undated,Dominion requests without assigned energization dates,45000,MW,Utility queue disclosure,dominion_gs5,p. 2,"Large, undated request pool. No duration, permit or gas feasibility established; overlaps PJM footprint."
+dominion_dated,Dominion requests assigned energization through 2031,25000,MW,Utility queue disclosure,dominion_gs5,p. 2,Not all ready now; not all temporarily short of power.
+pjm_2027,PJM 2027 summer peak forecast,160451,MW,Grid forecast,pjm_2026,Forecast comparison table,"Total system peak; 3,735 MW below previous forecast. Do not add to Dominion requests."
+anchor,FTAI / J&F initial customer order,1465,USD million,Company disclosure,ftai_q2,slide 6,Anonymous leading international cloud provider. Substantial portion of 2027 target; site and unit count not disclosed.

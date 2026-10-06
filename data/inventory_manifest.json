@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ceros_payload",
+    "title": "Public Ceros experience payload",
+    "url": "https://media.ceros.com/fortress-investment/doc-version-json/v11/experience-version-65c3e59f6da8b.js",
+    "accessed": "2026-10-05",
+    "status": "downloaded",
+    "published": null,
+    "sha256": "2640b4a3f2d893e2c4effd4d57f31d5a5b81cd5d33b6809c4d78216d68d7b8e9",
+    "bytes": 1522393,
+    "file": "data/raw/ceros_payload.js"
+  },
+  {
+    "id": "wayback_ceros",
+    "title": "Wayback CDX inventory history",
+    "url": "https://web.archive.org/cdx/search/cdx?url=view.ceros.com%2Ffortress-investment%2Fcfm56material%2Fp%2F1&output=json&filter=statuscode%3A200&collapse=timestamp%3A6&limit=12",
+    "accessed": "2026-10-05",
+    "status": "downloaded",
+    "published": null,
+    "sha256": "d746f825be9ed1f66c52a1d5df54afc87a3ebb453304432d5909693fe07e52be",
+    "bytes": 2478,
+    "file": "data/raw/wayback_ceros.json"
+  },
+  {
+    "id": "ftai_q2_release",
+    "title": "FTAI Q2 2026 results",
+    "url": "https://ftandi.gcs-web.com/news-releases/news-release-details/ftai-aviation-ltd-reports-second-quarter-2026-results-increases",
+    "accessed": "2026-10-05",
+    "status": "unavailable",
+    "published": null,
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "dominion_apollo1",
+    "title": "Dominion Twin Creeks to Apollo volume 1",
+    "url": "https://www2.dominionenergy.com/-/media/pdfs/global/projects-and-facilities/electric-projects/power-line-projects/nova/twin-creeks-to-apollo/application-volume-1-of-3-2024.pdf?hash=648A8EC17A44CFF5D2DCD6E59C6F4908&rev=0bf55ec94cea4523b115632387166e87",
+    "accessed": "2026-10-05",
+    "status": "unavailable",
+    "published": null,
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

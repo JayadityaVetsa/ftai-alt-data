@@ -1,0 +1,6 @@
+area,rows,includedRows,includedQuantity,notCountedSourceQuantity,uniquePartNumbers
+Core,47,46,1275,2,32
+Fan,64,64,1856,0,56
+HPT,10,9,33,1,9
+LPT,43,31,1254,1651,26
+QEC / LRU,53,51,220,60,43

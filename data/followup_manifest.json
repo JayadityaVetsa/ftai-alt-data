@@ -1,0 +1,95 @@
+[
+  {
+    "id": "module_store",
+    "title": "FTAI Module Store registration destination",
+    "url": "https://ftaiaviation.force.com/modulestore/s/login/SelfRegister",
+    "accessed": "2026-10-05",
+    "status": "unavailable",
+    "published": null,
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "id": "oracle_site_update",
+    "title": "Oracle five-site progress update",
+    "url": "https://blogs.oracle.com/ceo/from-the-q4-earnings-call",
+    "accessed": "2026-10-05",
+    "status": "unavailable",
+    "published": null,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "vantage_frontier",
+    "title": "Vantage Frontier campus announcement",
+    "url": "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
+    "accessed": "2026-10-05",
+    "status": "unavailable",
+    "published": null,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "meta_generation",
+    "title": "Entergy Meta-serving generation construction",
+    "url": "https://www.entergy.com/news/entergy-louisiana-breaks-ground-on-new-state-of-the-art-generation-facilities-to-power-reliability-growth-and-innovation",
+    "accessed": "2026-10-05",
+    "status": "unavailable",
+    "published": null,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "safran_fy25",
+    "title": "Safran FY2025 and updated ambitions",
+    "url": "https://www.safran-group.com/pressroom/safran-reports-excellent-financial-performance-2025-and-raises-its-2028-ambitions-2026-02-13",
+    "accessed": "2026-10-05",
+    "status": "unavailable",
+    "published": null,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ftai_q2",
+    "title": "FTAI Q2 2026 supplement",
+    "url": "https://ir.ftaiaviation.com/static-files/a8601ed2-7367-4a33-898f-5163eb8b212d",
+    "accessed": "2026-10-05",
+    "status": "unavailable",
+    "published": null,
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "voltagrid_oracle",
+    "title": "VoltaGrid Oracle 2300 MW agreement",
+    "url": "https://www.globenewswire.com/news-release/2025/10/15/3167053/0/en/voltagrid-collaborates-with-oracle-to-power-next-gen-ai-data-centers.html",
+    "accessed": "2026-10-05",
+    "status": "unavailable",
+    "published": null,
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "archive_20240612175351",
+    "title": "Archived Ceros page 20240612175351",
+    "url": "https://web.archive.org/web/20240612175351id_/https://view.ceros.com/fortress-investment/cfm56material/p/1",
+    "accessed": "2026-10-05",
+    "status": "downloaded",
+    "published": null,
+    "resolvedUrl": "https://web.archive.org/web/20240612175351id_/https://view.ceros.com/fortress-investment/cfm56material/p/1",
+    "bytes": 91035,
+    "sha256": "4b935acdb166b19b76aff60a54fa924bae6e740bca0707ed67d1a4aff0678e25",
+    "file": "data/raw/archive_20240612175351.html",
+    "embeddedPublication": [
+      "lastPublishedDate\":\"2024-02-07T20:18:40.000Z\""
+    ]
+  },
+  {
+    "id": "archive_20250524025931",
+    "title": "Archived Ceros page 20250524025931",
+    "url": "https://web.archive.org/web/20250524025931id_/https://view.ceros.com/fortress-investment/cfm56material/p/1",
+    "accessed": "2026-10-05",
+    "status": "downloaded",
+    "published": null,
+    "resolvedUrl": "https://web.archive.org/web/20250524025931id_/https://view.ceros.com/fortress-investment/cfm56material/p/1",
+    "bytes": 93975,
+    "sha256": "e9c703b0a5586d75fff092da0df84bca983483374212f126517e9b98e72e8829",
+    "file": "data/raw/archive_20250524025931.html",
+    "embeddedPublication": [
+      "lastPublishedDate\":\"2024-02-07T20:18:40.000Z\""
+    ]
+  }
+]

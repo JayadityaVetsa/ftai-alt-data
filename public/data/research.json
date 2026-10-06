@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-04",
+  "asOf": "2026-10-05",
   "facts": [
     {
       "id": "order",
@@ -482,7 +482,7 @@
       "test": "Separate manufacturing progress from revenue and cash attributable to FTAI."
     },
     {
-      "date": "2027-10-04",
+      "date": "2027-10-05",
       "event": "12-month investment horizon ends",
       "basis": "Research convention",
       "test": "Assess recognized profit, repeat orders and revised execution risk."
@@ -497,14 +497,17 @@
   "sources": [
     {
       "id": "ftai_q2",
-      "title": "FTAI Q2 2026 earnings supplement",
+      "title": "FTAI Q2 2026 supplement",
       "url": "https://ir.ftaiaviation.com/static-files/a8601ed2-7367-4a33-898f-5163eb8b212d",
       "published": "2026-07-29",
-      "accessed": "2026-10-04",
+      "accessed": "2026-10-05",
       "file": "data/raw/ftai_q2.pdf",
       "status": "unavailable",
       "error": "The read operation timed out",
-      "evidence": "Browser-reviewed numeric disclosure or listing; detailed review limits are recorded in each project."
+      "evidence": "Browser-reviewed numeric disclosure or listing; detailed review limits are recorded in each project.",
+      "locator": "slides 13, 20, 29, 42",
+      "review": "Original PDF text and endnotes reviewed. Full-utilization capacity includes partnerships.",
+      "browserReviewed": true
     },
     {
       "id": "ftai_10q",
@@ -798,6 +801,317 @@
       "status": "downloaded",
       "bytes": 7190327,
       "sha256": "776fb90c5488af96062b0a616ff43e8b8b9607edc9a0b86bf02bdf8db72b58e4"
+    },
+    {
+      "id": "safran_outlook",
+      "title": "Safran FY2025 / 2028 investor update",
+      "url": "https://www.safran-group.com/download/media/450393",
+      "published": "2026-02-13",
+      "locator": "slide 20",
+      "review": "Original PDF text reviewed. No chart bar heights digitized.",
+      "status": "unavailable",
+      "error": "HTTP Error 403: Forbidden",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "safran_h1_2026",
+      "title": "Safran H1 2026 results",
+      "url": "https://www.safran-group.com/pressroom/safran-reports-its-first-half-2026-results-2026-07-28",
+      "published": "2026-07-28",
+      "locator": "Organic revenue / propulsion",
+      "review": "Civil spare-parts growth includes CFM56 and LEAP; not a CFM56 visit count.",
+      "status": "unavailable",
+      "error": "HTTP Error 403: Forbidden",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "ftai_q2_release",
+      "title": "FTAI Q2 2026 results / FY2027 guidance",
+      "url": "https://ftandi.gcs-web.com/news-releases/news-release-details/ftai-aviation-ltd-reports-second-quarter-2026-results-increases",
+      "published": "2026-07-29",
+      "locator": "Business highlights",
+      "review": "Guidance is management expectations, not sell-side consensus.",
+      "status": "unavailable",
+      "error": "The read operation timed out",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "crusoe_microsoft",
+      "title": "Crusoe Microsoft Abilene campus",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure",
+      "published": "2026-03-27",
+      "locator": "Energy-first AI infrastructure",
+      "review": "900 MW on-site plant; two 336 MW IT buildings. Utility energization date and supplier allocation absent.",
+      "status": "downloaded",
+      "bytes": 239216,
+      "sha256": "775c3869801f66ebbadba24c16b86223866a1e0940792b69a0e8cf19ceba5ca0",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "crusoe_abilene",
+      "title": "Crusoe original Abilene campus",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts",
+      "published": "2025-03-18",
+      "locator": "Campus capacity and backup supply",
+      "review": "Do not classify backup turbines as unsatisfied primary demand.",
+      "status": "downloaded",
+      "bytes": 241460,
+      "sha256": "04dadf3b8300ec7bedca303fa2ea56188d930d2b99898dc3af6e6a2f5f12f297",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "crusoe_bergen",
+      "title": "Crusoe / Bergen genset procurement",
+      "url": "https://www.crusoe.ai/resources/newsroom/bergen-engines-signs-approx-750mw-u-s-power-agreement-with-crusoe-for-ai-data-centers",
+      "published": "2026-06",
+      "locator": "Initial contract and delivery schedule",
+      "review": "438 MW initial contract + 310 MW LOI. Multiple undisclosed sites; not assigned to Microsoft Abilene.",
+      "status": "downloaded",
+      "bytes": 241741,
+      "sha256": "9f9b1dcf768666a87836f82a409b0269fafed690f52f17b98236445b0fa2069b",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "oracle_site_update",
+      "title": "Oracle five-site progress update",
+      "url": "https://blogs.oracle.com/ceo/from-the-q4-earnings-call",
+      "published": "2026-06",
+      "locator": "Five largest sites",
+      "review": "Customer delivery is not a grid energization date.",
+      "status": "unavailable",
+      "error": "HTTP Error 403: Forbidden",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "vantage_frontier",
+      "title": "Vantage Frontier campus announcement",
+      "url": "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
+      "published": "2025-08-19",
+      "locator": "Campus overview and first delivery",
+      "review": "1,400 MW GPU/IT capacity, not electrical facility input. Original H2 2026 schedule differs from Oracle's later 1H 2027 customer delivery.",
+      "status": "unavailable",
+      "error": "HTTP Error 403: Forbidden",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "vantage_lighthouse",
+      "title": "Vantage Lighthouse campus specifications",
+      "url": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin",
+      "published": null,
+      "locator": "Campus overview / power",
+      "review": "Current page specifies 902 MW IT, completion 2028, We Energies supply. Prefer this over older approximate 1 GW headlines.",
+      "status": "Browser reviewed; no bulk snapshot",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "oracle_jupiter",
+      "title": "Oracle revised Project Jupiter power plan",
+      "url": "https://www.oracle.com/news/announcement/public-review-opens-for-updated-project-jupiter-power-plan-2026-06-03/",
+      "published": "2026-06-03",
+      "locator": "Updated April permit application",
+      "review": "Bloom fuel cells replace the earlier gas turbine and diesel design.",
+      "status": "downloaded",
+      "bytes": 32184,
+      "sha256": "c1cd0fc70c2bcc19780036b7afd0f4065883759c8ea42880b5bd05c87facc76b",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "saline_brief",
+      "title": "Michigan AG Saline / DTE appeal brief",
+      "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/releases/2026/August/U-21990_AG_Appeal-Brief_380362_380364_380878.pdf?hash=72E2301BC667221A3A45D752047F7F4E&rev=ac0f30a1536c42f0bb28fcb1cb441a29",
+      "published": "2026-08-06",
+      "locator": "PDF p. 21, statement of facts; quoting DTE application",
+      "review": "1.4 GW load ramps Jan–Dec 2027. It does not establish an uncovered load interval.",
+      "status": "Browser reviewed; no bulk snapshot",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "saline_dte",
+      "title": "DTE Saline planned service timing",
+      "url": "https://www.dteenergy.com/us/en/newsroom/2026/DTE-Energy-intends-to-pause-future-electric-rate-requests-following-upcoming-filing-as-data-centers-come-online.html",
+      "published": "2026-05",
+      "locator": "First data-center project by end-2027",
+      "review": "Utility target is conditional. No full monthly service ramp disclosed here.",
+      "status": "Browser reviewed; no bulk snapshot",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "dominion_gs5",
+      "title": "Dominion GS-5 large-load report",
+      "url": "https://sustainability.dominionenergy.com/GS-5%20Large%20Load%20Rate%20Class%20Report.pdf",
+      "published": "2026-05",
+      "locator": "p. 2, energization queue; pp. 4–5, contracting",
+      "review": "45 GW has no assigned energization date; 25 GW assigned through 2031. Not independent of PJM data.",
+      "status": "downloaded",
+      "bytes": 13831372,
+      "sha256": "400960b6d54f7d37761405bf38ea0d9f9358dc836ae4afe7f0445516c9e5eb92",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "dominion_apollo",
+      "title": "Dominion Twin Creeks / Apollo filing",
+      "url": "https://www.dominionenergy.com/-/media/content/about/power-line-projects/nova/pdfs/application-documents/application-volume-3-of-3-2024.pdf",
+      "published": "2024",
+      "locator": "Indexed project need text and substation schedule",
+      "review": "Full PDF acquisition failed. 1,372 MW cluster and 2028 Lunar/Apollo text are screening leads; current scope and dates unverified.",
+      "status": "unavailable",
+      "bytes": 9751708,
+      "sha256": "9e303b145a71479eb86ad0b581ab56139cbaf458916441dfaaafe7d099c2fc67",
+      "error": "Cannot find Root object in pdf",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "pjm_2026",
+      "title": "PJM revised 2026 load forecast",
+      "url": "https://insidelines.pjm.com/pjms-updated-20-year-forecast-continues-to-see-significant-long-term-load-growth/",
+      "published": "2026-01-14",
+      "locator": "Forecast comparison table / firm commitments",
+      "review": "2027 peak 160,451 MW, down 3,735 from prior forecast. System peak is not data-center load or a turbine TAM.",
+      "status": "downloaded",
+      "bytes": 185759,
+      "sha256": "855728904a359c508b218f3905aa2d74277619908c1236716bb23e281679f647",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "ceros_inventory",
+      "title": "FTAI / AAR CFM56 material page",
+      "url": "https://view.ceros.com/fortress-investment/cfm56material/p/1",
+      "published": "2024-02-07",
+      "locator": "Embedded publication metadata / module program",
+      "review": "60-module shelf claim is historical marketing. Responsive duplicates are not additional inventory.",
+      "status": "downloaded",
+      "bytes": 79135,
+      "sha256": "3d3dea0cd5b29e5762d31f8e54043163971894425df137c8dfb5cab7d79aff7c",
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "ceros_payload",
+      "title": "Public Ceros interaction payload",
+      "url": "https://media.ceros.com/fortress-investment/doc-version-json/v11/experience-version-65c3e59f6da8b.js",
+      "published": "2024-02-07",
+      "locator": "Module Store click interactions",
+      "review": "Links to Salesforce self-registration, not a downloadable public serial list.",
+      "status": "downloaded",
+      "sha256": "2640b4a3f2d893e2c4effd4d57f31d5a5b81cd5d33b6809c4d78216d68d7b8e9",
+      "bytes": 1522393,
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "module_store",
+      "title": "FTAI Module Store registration destination",
+      "url": "https://ftaiaviation.force.com/modulestore/s/login/SelfRegister",
+      "published": null,
+      "locator": "Destination linked by Ceros",
+      "review": "Destination did not resolve during acquisition. No authenticated stock data accessed.",
+      "status": "unavailable",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>",
+      "accessed": "2026-10-05",
+      "browserReviewed": false
+    },
+    {
+      "id": "wayback_ceros",
+      "title": "Wayback CDX inventory-page capture index",
+      "url": "https://web.archive.org/cdx/search/cdx?url=view.ceros.com%2Ffortress-investment%2Fcfm56material%2Fp%2F1&output=json&filter=statuscode%3A200&collapse=timestamp%3A6&limit=12",
+      "published": null,
+      "locator": "Indexed captures; oldest and latest in returned limited set",
+      "review": "Limited index query is not a complete archive census. Two HTML captures independently acquired.",
+      "status": "downloaded",
+      "sha256": "d746f825be9ed1f66c52a1d5df54afc87a3ebb453304432d5909693fe07e52be",
+      "bytes": 2478,
+      "accessed": "2026-10-05",
+      "browserReviewed": true
+    },
+    {
+      "id": "market_quote",
+      "title": "FTAI quote-provider observation",
+      "url": "https://finance.yahoo.com/quote/FTAI/",
+      "published": "2026-10-05 America/Chicago",
+      "locator": "Finance tool: latest trade 2026-10-06 00:15:00 UTC",
+      "review": "Price 164.70 from finance tool. Yahoo page returned 429; link is a quote lookup, not an independent corroboration. No live refresh or consensus implied.",
+      "status": "Browser reviewed; no bulk snapshot",
+      "accessed": "2026-10-05",
+      "browserReviewed": false
+    },
+    {
+      "id": "inventory_sheet",
+      "title": "User-supplied FTAI inventory Google Sheet",
+      "url": "https://docs.google.com/spreadsheets/d/17v30PxGEzR5UNq8yL1Gxf-IGMwjgZEvrmreZQnM9N_U/edit?gid=1561108781",
+      "accessed": "2026-10-05",
+      "status": "downloaded",
+      "published": null,
+      "resolvedUrl": "https://doc-00-2g-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/vu6mjsj6edibi1pkk1npvt8svk/1791252895000/100341597857023497526/*/17v30PxGEzR5UNq8yL1Gxf-IGMwjgZEvrmreZQnM9N_U?format=csv&gid=1561108781",
+      "bytes": 47612,
+      "sha256": "ca5239024c51aa97a6d01d5e084261142ad26b103af006ef718982cf27aff19d",
+      "locator": "gid 1561108781, header row 4; quantities in N; control N3",
+      "review": "User-supplied compilation of displayed stock images. Column N controls included quantity; 14 possible-overlap rows and 2 unresolved identifier rows are not counted. Stock dates, ownership and Power qualification are not established. An ESN attached to LLPs identifies provenance, not a complete available engine. Two of 12 source images spot-checked: 5B LPT material and Core LLPs; full transcription reconciliation outstanding.",
+      "browserReviewed": false
+    },
+    {
+      "id": "gev_capacity",
+      "title": "GE Vernova Q2 2026 supply guidance",
+      "url": "https://www.gevernova.com/news/articles/ge-vernova-releases-second-quarter-2026-financial-results",
+      "published": "2026-07-22",
+      "locator": "Results highlights and CEO statement",
+      "review": "Global supply pressure; free 2027–28 slots undisclosed",
+      "status": "Browser-reviewed public source; raw capture unavailable",
+      "accessed": "2026-10-05"
+    },
+    {
+      "id": "jereh_careers",
+      "title": "Jereh official careers page",
+      "url": "https://www.jereh-nag.com/careers/careers.jsp",
+      "published": null,
+      "locator": "Six displayed titles; release labels July 2025",
+      "review": "Historical matched opening counts unavailable",
+      "status": "Browser-reviewed public source; raw capture unavailable",
+      "accessed": "2026-10-05"
+    },
+    {
+      "id": "jereh_sourcing",
+      "title": "Jereh gas-turbine sourcing role",
+      "url": "https://www.linkedin.com/jobs/view/senior-strategic-sourcing-manager-%E2%80%93-power-generation-gas-turbines-at-jereh-north-america-group-4469616069",
+      "published": null,
+      "locator": "Employer-posted description, ID 4469616069",
+      "review": "Exact posting date unknown; capability signal only",
+      "status": "Browser-reviewed public source; raw capture unavailable",
+      "accessed": "2026-10-05"
+    },
+    {
+      "id": "faa_llp",
+      "title": "FAA engine life-limited parts guidance",
+      "url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_33_70-1_Chg_1.pdf",
+      "published": "2017-02-24",
+      "locator": "AC 33.70-1 Change 1",
+      "review": "Operating limits and records; aircraft age is not engine eligibility",
+      "status": "Browser-reviewed public source; raw capture unavailable",
+      "accessed": "2026-10-05"
+    },
+    {
+      "id": "ftai_recruiting",
+      "title": "FTAI company recruiting campaign",
+      "url": "https://www.linkedin.com/posts/ftai-aviation-llc_ftaiaviation-powerfortheaftermarket-ftaipower-activity-7456058491481464832-uGku",
+      "published": null,
+      "locator": "Company post indexed with FTAI Power tag",
+      "review": "Exact posting date unverified; not a job-count series",
+      "status": "Browser-reviewed public source; raw capture unavailable",
+      "accessed": "2026-10-05"
     }
   ],
   "fleet": {
@@ -69070,5 +69384,6 @@
     "eligibleMw": 0,
     "explicitFtaiSites": 0,
     "note": "Purposive 15-record screen, not a census or statistical sample. Zero verified eligible MW means evidence is insufficient, not zero market demand."
-  }
+  },
+  "release": "Customer and production studies v2; retained permit observations keep their original dates."
 }

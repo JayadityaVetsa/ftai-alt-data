@@ -1,0 +1,12 @@
+id,label,value,unit,basis,source,locator,note
+capacity,Full-utilization annual module capacity,3000,modules/year,Management capacity claim,ftai_q2,"slides 13 / 29, footnote 4",Includes GMF AeroAsia and EgyptAir. Not shipped output or independently audited Power throughput.
+aviation2027,2027 annual module production outlook,1700,modules/year,Management guidance,ftai_q2,"slides 13 / 29, footnote 3",Includes partnerships. Power-versus-aviation processing-equivalent allocation is a model assumption.
+engines650,Maintenance facilities' engine production support,650,engines/year,Management capacity claim,ftai_q2,slide 20,"650+ stated. Shared maintenance capability, not a verified dedicated Mod-1 line."
+inventory_old,"Consolidated inventory, December 31, 2025",1193.773,USD million,Reported balance,ftai_q2,slide 42,Book value; not engine count or Power-dedicated stock.
+inventory_new,"Consolidated inventory, June 30, 2026",1544.592,USD million,Reported balance,ftai_q2,slide 42,"Book value. Increase can reflect acquisitions, work in process and cost mix, not physical hoarding alone."
+power_inventory,H1 2026 Power inventory working-capital use,46,USD million,Company cash-flow explanation,ftai_q2,"slide 29, footnote 2","Disclosed working-capital investment, not ending Power stock or usable core quantity."
+safran_h1,H1 2026 civil spare-parts sales growth,27.9,"percent YoY, USD",Reported aftermarket growth,safran_h1_2026,Organic revenue / propulsion,"Largely CFM56-driven; LEAP contributes. Revenue growth includes price and workscope, not only visit volume."
+safran_additional,Additional CFM56 shop visits expected vs CMD2024,750,"more than 750 visits, cumulative 2025–2028",Revised management outlook,safran_outlook,slide 20,"Incremental cumulative visits, not 750 per year or the total global market."
+ap_guidance,2027 Aerospace Products Adjusted EBITDA,1400,USD million,Management guidance,ftai_q2_release,Business highlights,Dated benchmark. Not consensus and not consolidated earnings.
+power_guidance,2027 Power Adjusted EBITDA,450,USD million,Management guidance,ftai_q2_release,Business highlights,Already publicly expected by management. Not directly identical to the site's simplified attribution proxy.
+leasing_guidance,2027 Aviation Leasing Adjusted EBITDA,450,USD million,Management guidance,ftai_q2_release,Business highlights,Includes evolving SCI mix; separate fee/asset valuation must avoid double counting.

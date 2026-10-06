@@ -1,0 +1,35 @@
+[
+  {
+    "id": "inventory_sheet",
+    "title": "User-supplied FTAI inventory Google Sheet",
+    "url": "https://docs.google.com/spreadsheets/d/17v30PxGEzR5UNq8yL1Gxf-IGMwjgZEvrmreZQnM9N_U/export?format=csv&gid=1561108781",
+    "accessed": "2026-10-05",
+    "status": "downloaded",
+    "published": null,
+    "resolvedUrl": "https://doc-00-2g-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/vu6mjsj6edibi1pkk1npvt8svk/1791252895000/100341597857023497526/*/17v30PxGEzR5UNq8yL1Gxf-IGMwjgZEvrmreZQnM9N_U?format=csv&gid=1561108781",
+    "bytes": 47612,
+    "sha256": "ca5239024c51aa97a6d01d5e084261142ad26b103af006ef718982cf27aff19d"
+  },
+  {
+    "id": "inventory_sheet_html",
+    "title": "User-supplied FTAI inventory Google Sheet",
+    "url": "https://docs.google.com/spreadsheets/d/17v30PxGEzR5UNq8yL1Gxf-IGMwjgZEvrmreZQnM9N_U/htmlview?gid=1561108781",
+    "accessed": "2026-10-05",
+    "status": "downloaded",
+    "published": null,
+    "resolvedUrl": "https://docs.google.com/spreadsheets/d/17v30PxGEzR5UNq8yL1Gxf-IGMwjgZEvrmreZQnM9N_U/htmlview?gid=1561108781",
+    "bytes": 53320,
+    "sha256": "9905724189e4e055aeb3c5e99428f9cc657428ca3fab4364b81acabd4bfced27"
+  },
+  {
+    "id": "inventory_sheet_xlsx",
+    "title": "User-supplied FTAI inventory Google Sheet",
+    "url": "https://docs.google.com/spreadsheets/d/17v30PxGEzR5UNq8yL1Gxf-IGMwjgZEvrmreZQnM9N_U/export?format=xlsx",
+    "accessed": "2026-10-05",
+    "status": "downloaded",
+    "published": null,
+    "resolvedUrl": "https://doc-00-2g-sheets.googleusercontent.com/export/f3kk9gtum31ktuqh54kn7i1e14/vu6mjsj6edibi1pkk1npvt8svk/1791252895000/100341597857023497526/*/17v30PxGEzR5UNq8yL1Gxf-IGMwjgZEvrmreZQnM9N_U?format=xlsx",
+    "bytes": 34670,
+    "sha256": "ea782fac532e0658d506227d91a5c6582a837eeb067f4a7b2a49e3ed64df788a"
+  }
+]

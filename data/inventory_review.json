@@ -1,0 +1,21 @@
+{
+  "sha256": "ca5239024c51aa97a6d01d5e084261142ad26b103af006ef718982cf27aff19d",
+  "observed": "2026-10-05",
+  "checks": [
+    {
+      "table": "5B_LPT_Material",
+      "partNumber": "338-108-204-0",
+      "displayedQuantity": 508,
+      "condition": "O",
+      "scope": "First row visually checked; no stock date shown"
+    },
+    {
+      "table": "Core_LLPs",
+      "partNumber": "1588M89G03",
+      "displayedQuantity": 1,
+      "engineSerial": "575551",
+      "cyclesRemaining": 5458,
+      "scope": "First row visually checked; donor provenance only"
+    }
+  ]
+}

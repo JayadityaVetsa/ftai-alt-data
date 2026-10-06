@@ -1,0 +1,5 @@
+id,buyer,supplier,mw,status,delivery,siteAllocation,source
+bergen_contract,Crusoe,Bergen Engines,438,Initial contract,Phased through 2027,Multiple US sites; allocation not disclosed,crusoe_bergen
+bergen_loi,Crusoe,Bergen Engines,310,LOI; separate from firm order,Phased through 2027; LOI contingent,Not assigned to a specific site,crusoe_bergen
+ftai_order,Anonymous international cloud provider,J&F / FTAI,,"Initial USD 1,465m order",Batches through November 2027,Unknown. Never attributed to a named hyperscaler,ftai_q2
+bloom_jupiter,Oracle / BorderPlex,Bloom Energy,,Current technology selected,Customer delivery 1H 2027 guidance,Project Jupiter,oracle_jupiter

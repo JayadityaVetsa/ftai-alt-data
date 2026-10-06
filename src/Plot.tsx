@@ -1,0 +1,8 @@
+import {useEffect,useRef,useState} from 'react';
+import type {Data,Layout} from 'plotly.js';
+const colors={navy:'#14253d',green:'#457764',orange:'#dd7955'};
+export function Plot({data,title,x,y,height=330,extra={}}:{data:Record<string,unknown>[];title:string;x?:string;y?:string;height?:number;extra?:Partial<Layout>}){
+ const el=useRef<HTMLDivElement>(null);const [error,setError]=useState('');
+ useEffect(()=>{let disposed=false;let cleanup=()=>{};import('plotly.js-dist-min').then(async({default:P})=>{if(disposed||!el.current)return;await P.react(el.current,data as unknown as Data[],{height,margin:{l:65,r:25,t:24,b:65},paper_bgcolor:'transparent',plot_bgcolor:'transparent',font:{family:'Arial, sans-serif',size:12,color:'#566375'},colorway:[colors.navy,colors.green,colors.orange],xaxis:{title:{text:x},gridcolor:'#edf0ee',zeroline:false,automargin:true},yaxis:{title:{text:y},gridcolor:'#e9eeeb',zeroline:false,automargin:true},legend:{orientation:'h',y:1.15},...extra},{responsive:true,displaylogo:false,toImageButtonOptions:{format:'png',filename:title,width:1200,height:650,scale:2},modeBarButtonsToRemove:['lasso2d','select2d']});if(disposed){if(el.current)P.purge(el.current);return;}const observer=new ResizeObserver(()=>{const node=el.current;if(!disposed&&node?.isConnected&&node.clientWidth&&node.clientHeight)Promise.resolve(P.Plots.resize(node)).catch(()=>{});});observer.observe(el.current);cleanup=()=>{observer.disconnect();if(el.current)P.purge(el.current);};}).catch(()=>setError('Chart could not load. Download its table to inspect the data.'));return()=>{disposed=true;cleanup();};},[data,title,x,y,height,extra]);
+ return <div className="plot" role="img" aria-label={title}>{error||<div ref={el}/>}</div>;
+}

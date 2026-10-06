@@ -1,0 +1,133 @@
+[
+  {
+    "id": "ceros_inventory",
+    "title": "FTAI / AAR CFM56 material experience",
+    "url": "https://view.ceros.com/fortress-investment/cfm56material/p/1",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "downloaded",
+    "file": "data/raw/ceros_inventory.html",
+    "bytes": 79135,
+    "sha256": "3d3dea0cd5b29e5762d31f8e54043163971894425df137c8dfb5cab7d79aff7c"
+  },
+  {
+    "id": "ftai_inventory_link",
+    "title": "User-linked FTAI page",
+    "url": "https://www.ftaiaviation.com/p/4",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "downloaded",
+    "file": "data/raw/ftai_inventory_link.html",
+    "bytes": 30360,
+    "sha256": "acb7aee13727bc3fd78655a910ded971c477a77ea8dc3bb957a95e6889529703"
+  },
+  {
+    "id": "safran_h1_2026",
+    "title": "Safran H1 2026 results",
+    "url": "https://www.safran-group.com/pressroom/safran-reports-its-first-half-2026-results-2026-07-28",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "unavailable",
+    "file": "data/raw/safran_h1_2026.html",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "safran_outlook",
+    "title": "Safran FY2025 / 2028 investor update",
+    "url": "https://www.safran-group.com/download/media/450393",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "unavailable",
+    "file": "data/raw/safran_outlook.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "dominion_gs5",
+    "title": "Dominion large-load rate-class report",
+    "url": "https://sustainability.dominionenergy.com/GS-5%20Large%20Load%20Rate%20Class%20Report.pdf",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "downloaded",
+    "file": "data/raw/dominion_gs5.pdf",
+    "bytes": 13831372,
+    "sha256": "400960b6d54f7d37761405bf38ea0d9f9358dc836ae4afe7f0445516c9e5eb92"
+  },
+  {
+    "id": "dominion_apollo",
+    "title": "Dominion Twin Creeks to Apollo application volume 3",
+    "url": "https://www.dominionenergy.com/-/media/content/about/power-line-projects/nova/pdfs/application-documents/application-volume-3-of-3-2024.pdf",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "unavailable",
+    "file": "data/raw/dominion_apollo.pdf",
+    "bytes": 9751708,
+    "sha256": "9e303b145a71479eb86ad0b581ab56139cbaf458916441dfaaafe7d099c2fc67",
+    "error": "Cannot find Root object in pdf"
+  },
+  {
+    "id": "crusoe_microsoft",
+    "title": "Crusoe Microsoft Abilene 900 MW campus",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "downloaded",
+    "file": "data/raw/crusoe_microsoft.html",
+    "bytes": 239216,
+    "sha256": "775c3869801f66ebbadba24c16b86223866a1e0940792b69a0e8cf19ceba5ca0"
+  },
+  {
+    "id": "crusoe_bergen",
+    "title": "Crusoe Bergen 750 MW procurement",
+    "url": "https://www.crusoe.ai/resources/newsroom/bergen-engines-signs-approx-750mw-u-s-power-agreement-with-crusoe-for-ai-data-centers",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "downloaded",
+    "file": "data/raw/crusoe_bergen.html",
+    "bytes": 241741,
+    "sha256": "9f9b1dcf768666a87836f82a409b0269fafed690f52f17b98236445b0fa2069b"
+  },
+  {
+    "id": "crusoe_abilene",
+    "title": "Crusoe original Abilene 1.2 GW campus",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "downloaded",
+    "file": "data/raw/crusoe_abilene.html",
+    "bytes": 241460,
+    "sha256": "04dadf3b8300ec7bedca303fa2ea56188d930d2b99898dc3af6e6a2f5f12f297"
+  },
+  {
+    "id": "oracle_jupiter",
+    "title": "Oracle revised Project Jupiter power plan",
+    "url": "https://www.oracle.com/news/announcement/public-review-opens-for-updated-project-jupiter-power-plan-2026-06-03/",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "downloaded",
+    "file": "data/raw/oracle_jupiter.html",
+    "bytes": 32184,
+    "sha256": "c1cd0fc70c2bcc19780036b7afd0f4065883759c8ea42880b5bd05c87facc76b"
+  },
+  {
+    "id": "oracle_jupiter_rfp",
+    "title": "Oracle New Mexico renewable RFP",
+    "url": "https://www.oracle.com/news/announcement/oracle-issues-rfp-for-2gw-of-renewable-energy-2026-09-08/",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "downloaded",
+    "file": "data/raw/oracle_jupiter_rfp.html",
+    "bytes": 31256,
+    "sha256": "84e37db3f51275cf141646538713fbeed1de8532c245333dc42abb4ab3979f46"
+  },
+  {
+    "id": "pjm_2026",
+    "title": "PJM updated 2026 load outlook",
+    "url": "https://insidelines.pjm.com/pjms-updated-20-year-forecast-continues-to-see-significant-long-term-load-growth/",
+    "accessed": "2026-10-05",
+    "published": null,
+    "status": "downloaded",
+    "file": "data/raw/pjm_2026.html",
+    "bytes": 185759,
+    "sha256": "855728904a359c508b218f3905aa2d74277619908c1236716bb23e281679f647"
+  }
+]
