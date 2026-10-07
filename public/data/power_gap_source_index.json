@@ -1,0 +1,440 @@
+{
+  "https://www.crusoe.ai/resources/newsroom/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts": {
+    "title": "Crusoe original Abilene campus",
+    "published": "2025-03-18",
+    "locator": "Campus capacity and backup supply",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure": {
+    "title": "Crusoe Microsoft Abilene campus",
+    "published": "2026-03-27",
+    "locator": "Energy-first AI infrastructure",
+    "reviewed": "2026-10-06"
+  },
+  "https://ir.applieddigital.com/news-events/press-releases/detail/154/applied-digital-signs-210-mw-lease-at-delta-forge-2": {
+    "title": "Applied Digital Delta Forge 2 lease",
+    "published": "2026-06-08",
+    "locator": "210 MW critical IT, Q1 2028 initial operations; portfolio utility power is grid-connected",
+    "reviewed": "2026-10-06"
+  },
+  "https://ir.applieddigital.com/news-events/press-releases/detail/148/applied-digital-reports-fiscal-third-quarter-2026-results": {
+    "title": "Applied Digital Q3 FY26 results",
+    "published": "2026-04-08",
+    "locator": "PF1 400 MW IT total, 100 operational; PF2 200 contracted IT; Delta Forge 1 430 MW electrical / 300 MW IT, initial mid-2027",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.aboutamazon.com/news/company-news/amazon-25-billion-mississippi-data-centers": {
+    "title": "Amazon Mississippi expansion",
+    "published": "2026-05-01",
+    "locator": "Madison, Warren, Hinds named; no site MW. $25bn statewide is not site-load capacity.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.aboutamazon.com/news/company-news/amazon-15-billion-indiana-data-centers": {
+    "title": "Amazon Indiana / Rainier site context",
+    "published": "2025-11-24",
+    "locator": "Existing New Carlisle; new Northern Indiana campuses add 2.4 GW collectively, not allocated to New Carlisle.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.aboutamazon.com/news/company-news/amazon-3-billion-mississippi-data-center-investment": {
+    "title": "Amazon Warren County campus",
+    "published": null,
+    "locator": "New Warren County campus. No MW or commissioning month.",
+    "reviewed": "2026-10-06"
+  },
+  "https://ir.blackhillscorp.com/news-releases/news-release-details/black-hills-corp-provides-update-18-gigawatt-project-cheyenne": {
+    "title": "Black Hills Cheyenne project update",
+    "published": null,
+    "locator": "1.8 GW project; early 2028 service; April equipment procurement agreement; Crusoe no longer partner",
+    "reviewed": "2026-10-06"
+  },
+  "https://investors.cipherdigital.com/static-files/6e976283-0e50-4f21-ab70-d3c6d5f1275e": {
+    "title": "Cipher Q1 2026 Form 10-Q",
+    "published": null,
+    "locator": "Barber Lake and Black Pearl: 300 MW each interconnection approvals; Colchis AEP direct interconnect; Ulysses secured AEP Ohio capacity",
+    "reviewed": "2026-10-06"
+  },
+  "https://cipherdigital.com/infrastructure/": {
+    "title": "Cipher Digital infrastructure ledger",
+    "published": null,
+    "locator": "Named campus MW and energization windows. Current Colchis target 2028–29 supersedes earlier 2028. Capacity is site power, not leased critical IT.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.crusoe.ai/resources/newsroom/crusoe-developing-data-center-campus-in-armstrong-county-texas": {
+    "title": "Crusoe identifies Google at Claude",
+    "published": "2026-09-28",
+    "locator": "Google tenant confirmed; June 2025 groundbreaking; Goodnight wind connections. No turbine order or campus-ready date disclosed.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.crusoe.ai/resources/newsroom/crusoe-and-lancium-announce-1-gigawatt-ai-data-center-campus-in-childress-texas": {
+    "title": "Crusoe / Lancium Childress announcement",
+    "published": "2026-07-15",
+    "locator": "1 GW grid-connected campus; Q3 2026 is construction start, not first power",
+    "reviewed": "2026-10-06"
+  },
+  "https://media.ffycdn.net/us/crusoe/PL5TuZz5apXB9pVsd3H1.pdf": {
+    "title": "Crusoe 2025 impact report",
+    "published": "2026-05-28",
+    "locator": "Key sites: original Abilene 1.2 GW, Microsoft 900 MW, Claude 900 MW; construction status",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.entergy.com/news/entergy-louisiana-receives-lpsc-approval-for-major-infrastructure-investments-to-support-metas-data-center-and-improve-reliability": {
+    "title": "Entergy LPSC infrastructure approval",
+    "published": "2025-08-20",
+    "locator": "Two utility plants targeted late 2028. Existing-grid supply ramp not disclosed here.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.entergy.com/news/entergy-louisiana-power-meta-s-data-center-in-richland-parish": {
+    "title": "Entergy Meta infrastructure plan",
+    "published": "2024-12-06",
+    "locator": "2,260 MW utility generation, not full campus load; target plants 2028–29",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.ercot.com/about/legal/data-center-impact-rfi": {
+    "title": "ERCOT data-center audit RFI",
+    "published": null,
+    "locator": "25 MW+ developers; October 12 submission deadline; report by December 10, 2026. Queue requests not realized load.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000046/fermi2q2026investorprese.htm": {
+    "title": "Fermi Q2 2026 investor presentation",
+    "published": null,
+    "locator": "4.8 GW planned generation in ~30 months including Hillcore BOOT; 2.6 GW Hillcore is not unallocated demand",
+    "reviewed": "2026-10-06"
+  },
+  "https://fermiamerica.com/progress/": {
+    "title": "Fermi physical equipment progress",
+    "published": null,
+    "locator": "Secured gas generation equipment; 17 GW private power ambition is generation, not a 2028 tenant load",
+    "reviewed": "2026-10-06"
+  },
+  "https://blog.google/company-news/inside-google/company-announcements/google-american-innovation-arkansas/": {
+    "title": "Google West Memphis announcement",
+    "published": "2025-10-02",
+    "locator": "Through-2027 investment; 600 MW is solar procurement, not firm site-load power.",
+    "reviewed": "2026-10-06"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-pine-island/": {
+    "title": "Google Pine Island / Xcel agreement",
+    "published": "2026-02-24",
+    "locator": "Xcel supplies power; wind/solar/storage procurement must not be summed into site demand.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.datacenters.google/locations/oklahoma/": {
+    "title": "Google Oklahoma campus ledger",
+    "published": null,
+    "locator": "Stillwater and Muskogee announced 2025, Tulsa County 2026; no project MW in selected publisher page",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.gevernova.com/news/press-releases/homer-city-redevelopment-kiewit-announce-country-largest-natural-gas-powered-data-center-support-ai-hpc-demand": {
+    "title": "Homer City / Kiewit / GEV announcement",
+    "published": "2025-04-02",
+    "locator": "Up to 4.5 GW generation, seven GEV turbines; first turbine deliveries expected 2026. Generation is not leased IT load.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.hut8.com/news-insights/press-releases/hut-8-reports-second-quarter-2026-results": {
+    "title": "Hut 8 Q2 2026 results",
+    "published": null,
+    "locator": "River Bend 330 MW utility / 245 MW IT, Q2 2027; Beacon Point 1,000 MW utility / 704 MW IT, phased 2027; initial energization Q1 2027",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm": {
+    "title": "IREN FY2026 Form 10-K",
+    "published": "2026-08-27",
+    "locator": "US campuses: Childress 750 MW, Sweetwater 1 1,400 MW and Sweetwater 2 600 MW; grid-connected capacity",
+    "reviewed": "2026-10-06"
+  },
+  "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-reports-fy26-results": {
+    "title": "IREN FY26 results",
+    "published": "2026-08-27",
+    "locator": "Horizon 1 delivered; Horizons 2–4 target Q4 2026; 0.8 GW IT cumulative 2027 across platform, not one site",
+    "reviewed": "2026-10-06"
+  },
+  "https://iren.gcs-web.com/news-releases/news-release-details/iren-may-2025-monthly-update": {
+    "title": "IREN May 2025 monthly update",
+    "published": null,
+    "locator": "Earlier utility targets: Sweetwater 1 April 2026, Sweetwater 2 late 2027; historical targets, not current guarantees",
+    "reviewed": "2026-10-06"
+  },
+  "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-reports-q2-fy26-results": {
+    "title": "IREN Q2 FY26 update",
+    "published": "2026-02-05",
+    "locator": "1.6 GW Oklahoma campus; grid studies complete, power ramp from 2028",
+    "reviewed": "2026-10-06"
+  },
+  "https://lancium.com/locations-childress-county/": {
+    "title": "Lancium Childress interconnection",
+    "published": null,
+    "locator": "1 GW interconnect approved by ERCOT; no customer-ready month stated",
+    "reviewed": "2026-10-06"
+  },
+  "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/": {
+    "title": "Meta El Paso BlackRock venture",
+    "published": null,
+    "locator": "1 GW compute capacity; start bringing capacity online 2028. Compute MW definition and phase size not specified.",
+    "reviewed": "2026-10-06"
+  },
+  "https://about.fb.com/news/2026/02/metas-new-data-center-lebanon-indiana-marks-milestone-ai-investment/": {
+    "title": "Meta Lebanon announcement",
+    "published": null,
+    "locator": "1 GW campus; groundbreaking. No electrical vs IT distinction or firm energization date in selected text.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.epw.senate.gov/public/_cache/files/b/a/ba3b19aa-25f5-48e6-8522-3b8085a597b2/CB05A6BE1D680998DC41351054391E7915B2D726067B9BAE77B8D9D7CC892FF8.letter-to-meta.pdf": {
+    "title": "Senate inquiry on Meta gas power",
+    "published": "2026-03-13",
+    "locator": "p. 1: proposed gas power at Socrates and El Paso; p. 3 asks equipment choice. Inquiry is not a final permit or supplier award.",
+    "reviewed": "2026-10-06"
+  },
+  "https://datacenters.atmeta.com/2026/04/hello-tulsa/": {
+    "title": "Meta Tulsa announcement",
+    "published": "2026-04-21",
+    "locator": "Campus announcement; no site-load MW. 1,500 MW renewable procurement is state-wide, not campus load.",
+    "reviewed": "2026-10-06"
+  },
+  "https://local.microsoft.com/blog/la-porte-public-meeting-recap/": {
+    "title": "Microsoft La Porte construction update",
+    "published": null,
+    "locator": "July 2026 update: grading, future vertical build. No MW or power-ready month disclosed.",
+    "reviewed": "2026-10-06"
+  },
+  "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/": {
+    "title": "Microsoft Fairwater / Wisconsin expansion",
+    "published": "2025-09-18",
+    "locator": "First campus early-2026 target, second similar-size campus investment through 2028; no site MW disclosed",
+    "reviewed": "2026-10-06"
+  },
+  "https://content.govdelivery.com/accounts/NCDEQ/bulletins/427509e": {
+    "title": "NC DEQ final Amazon / Duke bridge permits",
+    "published": "2026-08-28",
+    "locator": "57 non-emergency bridge engines, retired within one year of operation; 588 separate emergency engines. Neither count is campus MW.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.newerainfra.ai/_resources/First%20Quarter%20FY26%20Business%20Update.pdf?v=052106": {
+    "title": "New Era TCDC phased power plan",
+    "published": "2026-05-18",
+    "locator": "p. 7: 200 MW adjacent generation, 450 MW turbines on order, 750 MW further BTM/grid expansion. No full-campus 2028 guarantee.",
+    "reviewed": "2026-10-06"
+  },
+  "https://investors.newerainfra.ai/news/news-details/2026/New-Era-Energy--Digital-Announces-450-MW-Behind-the-Meter-Generation-Plan-at-TCDC-with-Thunderhead-Energy-and-TURBINE-X-Energy/default.aspx": {
+    "title": "New Era / Thunderhead generation equipment",
+    "published": "2026-02-27",
+    "locator": "450 MW equipment commercial arrangement; definitive purchase documentation still being finalized at announcement",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.pa.gov/governor/newsroom/2025-press-releases/gov-announces-amazon-to-invest--20b-in-pa--largest-capital-inves": {
+    "title": "Pennsylvania AWS site announcement",
+    "published": "2025-06-09",
+    "locator": "Named Salem and Falls townships; no campus MW. $20bn is a shared investment announcement.",
+    "reviewed": "2026-10-06"
+  },
+  "https://rowan.com/rowan-powers-texas-growth-as-construction-begins-on-300-mw-temple-data-center/": {
+    "title": "Rowan Temple power arrangement",
+    "published": "2026-01-05",
+    "locator": "300 MW campus; Oncor power secured; operations expected 2027; MW basis unspecified",
+    "reviewed": "2026-10-06"
+  },
+  "https://sbenergy.com/digital-infrastructure/": {
+    "title": "SB Energy digital infrastructure",
+    "published": null,
+    "locator": "Milam data center; multi-gigawatt portfolio / aspirational capacity not assigned to a single near-term site",
+    "reviewed": "2026-10-06"
+  },
+  "https://gov.texas.gov/news/post/governor-abbott-directs-tceq-to-halt-data-center-permits": {
+    "title": "Texas governor permit halt",
+    "published": "2026-09-21",
+    "locator": "TCEQ halt until audit information acquired; on-site power still needs permissions. Not a permanent grid-only ban.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.deq.virginia.gov/home/showpublisheddocument/35701/639128956440930000": {
+    "title": "Virginia DEQ Vantage VA2 assessment",
+    "published": "2026-04-27",
+    "locator": "p. 3: eight Solar SMT130, 16.5 MWe each; primary generation operating April 1, 2024. 132 MW is generator rating, not open demand.",
+    "reviewed": "2026-10-06"
+  },
+  "https://psc.wi.gov/Pages/CommissionActions/CasePages/OzaukeeTransmission.aspx": {
+    "title": "Wisconsin PSC Ozaukee final order",
+    "published": "2026-09-10",
+    "locator": "137-CE-221 completeness revoked; current network cannot support new load. New application possible; no revised customer energization date.",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000026/a_wulfearningsrelease2026-.htm": {
+    "title": "TeraWulf FY2025 results / Abernathy",
+    "published": "2026-02-26",
+    "locator": "Abernathy JV 168 MW critical IT; power-controlled platform; subsequent JV sale is not a second site",
+    "reviewed": "2026-10-06"
+  },
+  "https://investors.terawulf.com/news-events/press-releases/detail/144/terawulf-reports-second-quarter-2026-results": {
+    "title": "TeraWulf Q2 2026 results",
+    "published": "2026-08-05",
+    "locator": "Campus updates: Lake Mariner 438 MW IT contracted, Justified 401 IT, Muskie 1 GW electricity Q4 2028, Lake Hawkeye ~2029, Chesapeake ~2030",
+    "reviewed": "2026-10-06"
+  },
+  "https://ir.ftaiaviation.com/static-files/a8601ed2-7367-4a33-898f-5163eb8b212d": {
+    "title": "FTAI Q2 2026 supplement",
+    "published": "2026-07-29",
+    "locator": "slides 13, 20, 29, 42",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.gevernova.com/news/articles/ge-vernova-releases-second-quarter-2026-financial-results": {
+    "title": "GE Vernova Q2 2026 supply guidance",
+    "published": "2026-07-22",
+    "locator": "Results highlights and CEO statement",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.gevernova.com/news/press-releases/ge-vernova-crusoe-announce-major-29-unit-aeroderivative-gas-turbine-deliver-ai-data-centers": {
+    "title": "GEV / Crusoe 29 aeroderivative packages",
+    "published": "2025-07-22",
+    "locator": "Order announcement",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.oracle.com/news/announcement/public-review-opens-for-updated-project-jupiter-power-plan-2026-06-03/": {
+    "title": "Oracle revised Project Jupiter power plan",
+    "published": "2026-06-03",
+    "locator": "Updated April permit application",
+    "reviewed": "2026-10-06"
+  },
+  "https://blogs.oracle.com/ceo/from-the-q4-earnings-call": {
+    "title": "Oracle five-site progress update",
+    "published": "2026-06",
+    "locator": "Five largest sites",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.michigan.gov/ag/-/media/Project/Websites/AG/releases/2026/August/U-21990_AG_Appeal-Brief_380362_380364_380878.pdf?hash=72E2301BC667221A3A45D752047F7F4E&rev=ac0f30a1536c42f0bb28fcb1cb441a29": {
+    "title": "Michigan AG Saline / DTE appeal brief",
+    "published": "2026-08-06",
+    "locator": "PDF p. 21, statement of facts; quoting DTE application",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.dteenergy.com/us/en/newsroom/2026/DTE-Energy-intends-to-pause-future-electric-rate-requests-following-upcoming-filing-as-data-centers-come-online.html": {
+    "title": "DTE Saline planned service timing",
+    "published": "2026-05",
+    "locator": "First data-center project by end-2027",
+    "reviewed": "2026-10-06"
+  },
+  "https://assets.siemens-energy.com/dam/70568add-abb0-4cb7-91bc-b41d01144be8/2026-03-30---Q2-FY26-Pre-close-group-call-script_final-pdf_Original%20file.pdf": {
+    "title": "Siemens Energy FY26 pre-close call",
+    "published": "2026-03-30",
+    "locator": "pp. 2–3, Gas Services and Grid Technologies",
+    "reviewed": "2026-10-06"
+  },
+  "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/": {
+    "title": "Vantage Frontier campus announcement",
+    "published": "2025-08-19",
+    "locator": "Campus overview and first delivery",
+    "reviewed": "2026-10-06"
+  },
+  "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin": {
+    "title": "Vantage Lighthouse campus specifications",
+    "published": null,
+    "locator": "Campus overview / power",
+    "reviewed": "2026-10-06"
+  },
+  "https://voltagrid.com/wp-content/uploads/VoltaGrid-Press-Release_Oracle_October-15th.pdf": {
+    "title": "VoltaGrid / Oracle 2,300 MW agreement",
+    "published": "2025-10-15",
+    "locator": "Oracle power procurement and gas supply",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.wartsila.com/media/news/05-10-2026-wartsila-to-supply-282-mw-onsite-power-solution-for-a-u-s-data-center-as-ai-growth-intensifies-demand-for-reliable-power-3797450": {
+    "title": "Wärtsilä 282 MW US data-center order",
+    "published": "2026-10-05",
+    "locator": "Delivery 2028; operation 2029",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.wartsila.com/investors/blog/post/key-messages-and-q-a-on-interim-report-january-march-2026": {
+    "title": "Wärtsilä Q1 2026 investor Q&A",
+    "published": "2026-04-28",
+    "locator": "Energy delivery slots",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/consumer/info/briefs/Issue_Brief_U_21990_DTE_12_18_25-%28002%29.pdf?rev=380b26f1884f44cf95f0fbe40c214204": {
+    "title": "MPSC Saline contract issue brief",
+    "published": "2025-12-18",
+    "locator": "pp.1–2 supply agreement; pp.4–6 approval conditions",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.michigan.gov/ag/news/press-releases/2026/01/09/attorney-general-petitions-mpsc-for-rehearing-on-dte-data-center-special-contracts": {
+    "title": "Michigan AG Saline contract review",
+    "published": "2026-01-09",
+    "locator": "Approximately 1.4GW customer load and contract challenge",
+    "reviewed": "2026-10-06"
+  },
+  "https://milamdc.com/": {
+    "title": "SB Energy Milam project",
+    "published": null,
+    "locator": "First operations target2027; capacity basis unresolved",
+    "reviewed": "2026-10-06"
+  },
+  "https://iren.gcs-web.com/news-releases/news-release-details/iren-announces-successful-energization-sweetwater-1": {
+    "title": "IREN Sweetwater 1 energization",
+    "published": "2026-05-01",
+    "locator": "Substation energized; customer power delivery is phased",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000015/iren-20251231.htm": {
+    "title": "IREN Q2 FY26 Form 10-Q",
+    "published": "2026-02-05",
+    "locator": "p.42 Oklahoma contractual power rights; Note12 connection rights",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.hut8.com/data-centers/river-bend": {
+    "title": "Hut 8 River Bend project",
+    "published": null,
+    "locator": "330MW utility scope supporting245MW IT",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.hut8.com/news-insights/press-releases/hut-8-signs-15-year-245-mw-ai-data-center-lease-at-river-bend-campus-with-total-contract-value": {
+    "title": "Hut 8 River Bend lease and power arrangement",
+    "published": null,
+    "locator": "Initial330MW utility capacity secured with Entergy",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.hut8.com/data-centers/beacon-point": {
+    "title": "Hut 8 Beacon Point project",
+    "published": null,
+    "locator": "1,000MW utility/interconnection approvals; two phases",
+    "reviewed": "2026-10-06"
+  },
+  "https://ir.applieddigital.com/sec-filings/all-sec-filings/content/0001144879-26-000048/apld-20260531.htm": {
+    "title": "Applied Digital FY2026 Form 10-K",
+    "published": null,
+    "locator": "pp.5–7 campus portfolio and land/utility agreement wording",
+    "reviewed": "2026-10-06"
+  },
+  "https://investors.terawulf.com/news-events/press-releases/detail/145/kentucky-psc-approves-482-mw-power-agreement-for-terawulfs-justified-data-campus": {
+    "title": "Justified 482MW service agreement",
+    "published": "2026-08-24",
+    "locator": "Retail Electric Service Agreement approved August21",
+    "reviewed": "2026-10-06"
+  },
+  "https://investors.terawulf.com/news-events/press-releases/detail/146/terawulf-expands-contracted-power-capacity-at-its-muskie-data-campus-to-1-gw": {
+    "title": "Muskie amended service agreement",
+    "published": "2026-10-05",
+    "locator": "500MW first phase in2028; next500MW in2029",
+    "reviewed": "2026-10-06"
+  },
+  "https://investors.cipherdigital.com/news-releases/news-release-details/cipher-mining-provides-third-quarter-2025-business-update": {
+    "title": "Cipher Colchis executed connection agreement",
+    "published": "2025-11-03",
+    "locator": "1GW executed AEP Direct Connect Agreement",
+    "reviewed": "2026-10-06"
+  },
+  "https://investors.cipherdigital.com/news-releases/news-release-details/cipher-mining-announces-acquisition-200-mw-site-ohio": {
+    "title": "Cipher Ulysses capacity acquisition",
+    "published": null,
+    "locator": "200MW secured capacity from AEP Ohio",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.sec.gov/Archives/edgar/data/2110029/000119312526265898/d12401d424b4.htm": {
+    "title": "ERock IPO prospectus",
+    "published": "2026-06-09",
+    "locator": "Business case studies, p.146; Meta/EPE bridge project",
+    "reviewed": "2026-10-06"
+  },
+  "https://www.sec.gov/Archives/edgar/data/2028336/000121390026029087/ea028197201ex99-1.htm": {
+    "title": "New Era March2026 business update",
+    "published": "2026-03-17",
+    "locator": "Slides8–10;1+GW campus and200/450/350MW pathway",
+    "reviewed": "2026-10-06"
+  }
+}

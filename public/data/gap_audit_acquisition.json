@@ -1,0 +1,80 @@
+[
+  {
+    "id": "erock_prospectus",
+    "url": "https://www.sec.gov/Archives/edgar/data/2110029/000119312526265898/d12401d424b4.htm",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "cipher_q1",
+    "url": "https://investors.cipherdigital.com/static-files/6e976283-0e50-4f21-ab70-d3c6d5f1275e",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "tcdc_update",
+    "url": "https://www.newerainfra.ai/_resources/First%20Quarter%20FY26%20Business%20Update.pdf?v=052106",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "saline_issue_brief",
+    "url": "https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/consumer/info/briefs/Issue_Brief_U_21990_DTE_12_18_25-%28002%29.pdf?rev=380b26f1884f44cf95f0fbe40c214204",
+    "status": "downloaded",
+    "bytes": 409507,
+    "sha256": "a0f258878a4809b66e9b54dd0af93955d2777f37e23966b139faff0469e0df47",
+    "path": "data\\raw\\gap_audit\\saline_issue_brief.pdf",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "va2_assessment",
+    "url": "https://www.deq.virginia.gov/home/showpublisheddocument/35701/639128956440930000",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "frontier_datasheet",
+    "url": "https://vantage-dc.com/wp-content/uploads/2025/08/VDC_DataSheet_Frontier.pdf",
+    "status": "downloaded",
+    "bytes": 722380,
+    "sha256": "d9040d52ac8ec73bce431a2114cf61545c9ea01a7bffd55cbce9ff5bf642f3d6",
+    "path": "data\\raw\\gap_audit\\frontier_datasheet.pdf",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "iren_10k",
+    "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "apld_10k",
+    "url": "https://ir.applieddigital.com/sec-filings/all-sec-filings/content/0001144879-26-000048/apld-20260531.htm",
+    "status": "downloaded",
+    "bytes": 3089104,
+    "sha256": "d9db165af50a9eab28e9681d8cacfeb20ce7d027a7fb46da1ecbed654ca84e25",
+    "path": "data\\raw\\gap_audit\\apld_10k.html",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "milam_project",
+    "url": "https://milamdc.com/",
+    "status": "downloaded",
+    "bytes": 25741,
+    "sha256": "fbfd4800ccce9e16fe80702303eaeca62755d8eb15680859355724644cdde25d",
+    "path": "data\\raw\\gap_audit\\milam_project.html",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "iren_sw1_energized",
+    "url": "https://iren.gcs-web.com/news-releases/news-release-details/iren-announces-successful-energization-sweetwater-1",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "accessed": "2026-10-06"
+  }
+]

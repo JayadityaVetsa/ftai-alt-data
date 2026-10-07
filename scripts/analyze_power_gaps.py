@@ -44,7 +44,7 @@ print(json.dumps({k:out[k] for k in ['summary','pueSensitivities','coverage','or
 report=R/'research';report.mkdir(exist_ok=True)
 a=out['summary']
 text=f'''# Power gap audit: answers for the team
-As of October 6, 2026. All 50 original records audited. Website unchanged.
+Evidence cutoff October 6, 2026. All 50 original records audited. Published on the Power page October 7, 2026.
 
 ## The number and what it means
 The public-record audit gives a **conditional 0–{a['conditionalAllocationCeilingMw']/1000:.2f} GW contract-coverage range for 24 measurable records**. This is not a forecast of actual shortages. At 1.2 assumed PUE, the cohort has {a['electricalScopeMw']/1000:.2f} GW of published electrical scope, against {a['creditedSupplyMw']/1000:.3f} GW of usable numeric supply/allocation credits. Twelve records retain a positive ceiling; twelve have sufficient numerical credits for their stated scope.
@@ -95,6 +95,6 @@ text+='''
 ## Evidence and reproducibility
 This combines the existing primary-source ledger with additional publisher/regulator/SEC checks. Direct downloads are distinct from browser-readable text: see data/gap_audit_acquisition.json for new successes, failures and hashes. An inaccessible original is not silently treated as zero supply. Raw originals remain local and are not redistributed. The ERock public SEC text is readable through the research browser despite direct-download 403.
 
-Reproduce: `python scripts/analyze_power_gaps.py`. Inputs: original data/datacenter_study.json and manually reviewed data/power_gap_audit_notes.json. Outputs: data/power_gap_audit.json, data/power_gap_audit.csv and this memo. The original website is unchanged; its old scenario is not the corrected audit.
+Reproduce: `python scripts/analyze_power_gaps.py`. Inputs: original data/datacenter_study.json and manually reviewed data/power_gap_audit_notes.json. Outputs: data/power_gap_audit.json, data/power_gap_audit.csv and this memo. The current Power page publishes this audit; older assumption-based datasets are historical files, not the current contract-coverage estimate.
 '''
 (report/'power-gap-audit-2026-10-06.md').write_text(text,encoding='utf-8')

@@ -28,6 +28,8 @@ jobs:
       - run: python scripts/test_expansion.py
       - run: python scripts/test_workspace.py
       - run: python scripts/test_datacenters.py
+      - run: python scripts/test_gap_audit.py
+      - run: python scripts/test_gap_publication.py
       - run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
