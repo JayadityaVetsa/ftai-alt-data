@@ -1,13 +1,13 @@
 import {useState,type ReactNode} from 'react';
 import {Download,Search,ArrowRight,Copy,Check,ExternalLink} from 'lucide-react';
 import {Plot} from './Plot';
-import raw from '../public/data/datacenters.json';
+import raw from '../data/datacenter_study.json';
 import {studyModel,electricMw,capacityByBasis,type CampusStudy,type Campus,type StudyInputs,type PowerStatus} from './datacenterModels';
 import './datacenter.css';
 export const dcStudy=raw as unknown as CampusStudy;
 export const defaultStudyResult=studyModel(dcStudy.rows,dcStudy.defaults);
 const base=import.meta.env.BASE_URL,fmt=(n:number,dp=0)=>n.toLocaleString('en-US',{maximumFractionDigits:dp}),gw=(n:number)=>`${fmt(n/1000,2)} GW`;
-const labels:Record<PowerStatus,string>={procurement:'Unallocated procurement lead',timing:'Grid-timing watch',secured:'Utility strategy / capacity secured',selected:'On-site supplier / solution selected',unknown:'Allocation or timing unresolved',later:'After 2028'};
+const labels:Record<PowerStatus,string>={procurement:'On-site procurement lead',timing:'Grid-timing watch',secured:'Utility strategy / capacity secured',selected:'On-site supplier / solution selected',unknown:'Allocation or timing unresolved',later:'After 2028'};
 const colors:Record<PowerStatus,string>={procurement:'#267867',timing:'#c47838',secured:'#687e91',selected:'#243b58',unknown:'#9ba5ac',later:'#c5cbd0'};
 const statuses=Object.keys(labels) as PowerStatus[];
 function DownloadFile({file,children}:{file:string;children:ReactNode}){return <a className="w-action" href={`${base}data/${file}`} download><Download size={15}/>{children}</a>}
