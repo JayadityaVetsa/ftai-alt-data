@@ -1,0 +1,543 @@
+[
+  {
+    "id": "crusoe_abilene",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts",
+    "status": "downloaded",
+    "bytes": 242889,
+    "sha256": "2994a0670f0f78ab3e9a83af29ad2af9e5ec028121911b796059f90c484ea474",
+    "path": "data\\raw\\datacenters\\crusoe_abilene.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "crusoe_microsoft",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure",
+    "status": "downloaded",
+    "bytes": 240645,
+    "sha256": "ab946ad119ddeb2de81f11b56ec44d30d429cd5ccb275088982ce6e883431f65",
+    "path": "data\\raw\\datacenters\\crusoe_microsoft.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_apld_df2",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/154/applied-digital-signs-210-mw-lease-at-delta-forge-2",
+    "status": "downloaded",
+    "bytes": 32216,
+    "sha256": "1166202d234afb9fc7f7349b483645de651bea2708d3a30d32d4e55fc1415f8c",
+    "path": "data\\raw\\datacenters\\dc_apld_df2.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_apld_q3",
+    "url": "https://ir.applieddigital.com/news-events/press-releases/detail/148/applied-digital-reports-fiscal-third-quarter-2026-results",
+    "status": "downloaded",
+    "bytes": 367135,
+    "sha256": "9f8db5b90cf969f98e2e301c54c6bf41c0a4ae69d9a7cba97cc6ba9d2e61ddcd",
+    "path": "data\\raw\\datacenters\\dc_apld_q3.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_aws_mississippi",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-25-billion-mississippi-data-centers",
+    "status": "downloaded",
+    "bytes": 242418,
+    "sha256": "38afa62bcc7842dda64d2af64935488b2cfc0b09c4017dc19974ef8ed50e6e5e",
+    "path": "data\\raw\\datacenters\\dc_aws_mississippi.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_aws_rainier",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-15-billion-indiana-data-centers",
+    "status": "downloaded",
+    "bytes": 245723,
+    "sha256": "77e454405de903bd61cb29964ec975e3c61cd458141926bc285e348f1bae9295",
+    "path": "data\\raw\\datacenters\\dc_aws_rainier.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_aws_warren",
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-3-billion-mississippi-data-center-investment",
+    "status": "downloaded",
+    "bytes": 232329,
+    "sha256": "060138a2d6a84d46dbff51ab8ade8a2bd8a783b172b74b9b575c168b9e22b990",
+    "path": "data\\raw\\datacenters\\dc_aws_warren.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_cheyenne",
+    "url": "https://ir.blackhillscorp.com/news-releases/news-release-details/black-hills-corp-provides-update-18-gigawatt-project-cheyenne",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_cipher_10q",
+    "url": "https://investors.cipherdigital.com/static-files/6e976283-0e50-4f21-ab70-d3c6d5f1275e",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_cipher_sites",
+    "url": "https://cipherdigital.com/infrastructure/",
+    "status": "downloaded",
+    "bytes": 91623,
+    "sha256": "4049ddd4c58068dc7533d58204f5421d4c601deba419bb83c40fedc6172d4a9b",
+    "path": "data\\raw\\datacenters\\dc_cipher_sites.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_claude_google",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-developing-data-center-campus-in-armstrong-county-texas",
+    "status": "downloaded",
+    "bytes": 239451,
+    "sha256": "04cd0e2821ab26d40aa34fb82dba96f645761f260736992934a33fe6bd463789",
+    "path": "data\\raw\\datacenters\\dc_claude_google.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_crusoe_childress",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-and-lancium-announce-1-gigawatt-ai-data-center-campus-in-childress-texas",
+    "status": "downloaded",
+    "bytes": 241004,
+    "sha256": "6ca1ffe851657f540689922bdb4e6863288c77e5abb440804c7ca5b720083b5e",
+    "path": "data\\raw\\datacenters\\dc_crusoe_childress.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_crusoe_report",
+    "url": "https://media.ffycdn.net/us/crusoe/PL5TuZz5apXB9pVsd3H1.pdf",
+    "status": "failed",
+    "error": "Document exceeds 10 MB acquisition limit",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_entergy_approval",
+    "url": "https://www.entergy.com/news/entergy-louisiana-receives-lpsc-approval-for-major-infrastructure-investments-to-support-metas-data-center-and-improve-reliability",
+    "status": "downloaded",
+    "bytes": 102738,
+    "sha256": "a25b89e010e2e3fdf5648e467298becca1beaa7bb7eaff9fa33fa45afe0ea7c2",
+    "path": "data\\raw\\datacenters\\dc_entergy_approval.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_entergy_meta",
+    "url": "https://www.entergy.com/news/entergy-louisiana-power-meta-s-data-center-in-richland-parish",
+    "status": "downloaded",
+    "bytes": 123956,
+    "sha256": "2a0e4053719ed700bb28d2f39711cbae17e2a414c0da89044f24722ae74cb47a",
+    "path": "data\\raw\\datacenters\\dc_entergy_meta.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_ercot_rfi",
+    "url": "https://www.ercot.com/about/legal/data-center-impact-rfi",
+    "status": "downloaded",
+    "bytes": 55869,
+    "sha256": "f482d052e83b70c94120b340ec29e4a2ee83001d7a0301ef2278dccc9fd5364d",
+    "path": "data\\raw\\datacenters\\dc_ercot_rfi.html",
+    "contentType": "text/html;charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_fermi",
+    "url": "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000046/fermi2q2026investorprese.htm",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_fermi_progress",
+    "url": "https://fermiamerica.com/progress/",
+    "status": "downloaded",
+    "bytes": 163868,
+    "sha256": "3a7b18c74102486cf6b3259070d1e9296f604832b3e84762796974cde8ae7787",
+    "path": "data\\raw\\datacenters\\dc_fermi_progress.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_google_ar",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/google-american-innovation-arkansas/",
+    "status": "downloaded",
+    "bytes": 393574,
+    "sha256": "3753568d870019fb81f3d309f44c2d8b81ab3e4d98ce04d04cdc0daad412cdb1",
+    "path": "data\\raw\\datacenters\\dc_google_ar.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_google_mn",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-pine-island/",
+    "status": "downloaded",
+    "bytes": 360544,
+    "sha256": "0ae553de5b964a4f0f25a290f156168979a34acdd6f0ca80240ee91a7c680e05",
+    "path": "data\\raw\\datacenters\\dc_google_mn.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_google_ok",
+    "url": "https://www.datacenters.google/locations/oklahoma/",
+    "status": "downloaded",
+    "bytes": 174486,
+    "sha256": "a758e2eda0d05fc4a688d94e3358dd361d9c8c7d74790c41eb0a2ca67bd23072",
+    "path": "data\\raw\\datacenters\\dc_google_ok.html",
+    "contentType": "text/html",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_homer",
+    "url": "https://www.gevernova.com/news/press-releases/homer-city-redevelopment-kiewit-announce-country-largest-natural-gas-powered-data-center-support-ai-hpc-demand",
+    "status": "downloaded",
+    "bytes": 82763,
+    "sha256": "1180d463d37ef61474e11aa7347623d0fc42e1c0534f7edda04e6484fca152cb",
+    "path": "data\\raw\\datacenters\\dc_homer.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_hut_q2",
+    "url": "https://www.hut8.com/news-insights/press-releases/hut-8-reports-second-quarter-2026-results",
+    "status": "downloaded",
+    "bytes": 162595,
+    "sha256": "d5b9095a5aa1a99d58dd5031a1ed88ee2a8d235dfd78b45c78368d820c4cefb4",
+    "path": "data\\raw\\datacenters\\dc_hut_q2.html",
+    "contentType": "text/html;charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_iren_annual",
+    "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_iren_fy26",
+    "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-reports-fy26-results",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_iren_may",
+    "url": "https://iren.gcs-web.com/news-releases/news-release-details/iren-may-2025-monthly-update",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_iren_q2",
+    "url": "https://irisenergy.gcs-web.com/news-releases/news-release-details/iren-reports-q2-fy26-results",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_lancium_childress",
+    "url": "https://lancium.com/locations-childress-county/",
+    "status": "downloaded",
+    "bytes": 90951,
+    "sha256": "31a480049450e698b58e65996c16b41cd0eafd58394a6a34e4c81f1b07dd075d",
+    "path": "data\\raw\\datacenters\\dc_lancium_childress.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_meta_elpaso",
+    "url": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/",
+    "status": "downloaded",
+    "bytes": 338200,
+    "sha256": "814288412104cf4d71de1f86f003cd80baa68ff7fea9b229071f4ed4d42e1727",
+    "path": "data\\raw\\datacenters\\dc_meta_elpaso.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_meta_lebanon",
+    "url": "https://about.fb.com/news/2026/02/metas-new-data-center-lebanon-indiana-marks-milestone-ai-investment/",
+    "status": "downloaded",
+    "bytes": 585286,
+    "sha256": "233c070a7681073ba8d7e90c557d88c208d6539fb58d53ff31d9a0ec4bf6b992",
+    "path": "data\\raw\\datacenters\\dc_meta_lebanon.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_meta_senate",
+    "url": "https://www.epw.senate.gov/public/_cache/files/b/a/ba3b19aa-25f5-48e6-8522-3b8085a597b2/CB05A6BE1D680998DC41351054391E7915B2D726067B9BAE77B8D9D7CC892FF8.letter-to-meta.pdf",
+    "status": "downloaded",
+    "bytes": 850256,
+    "sha256": "b759beac09e2e1be0006baeb3445f232b455bf1b95e34ffdb264cdda1e9a7b67",
+    "path": "data\\raw\\datacenters\\dc_meta_senate.pdf",
+    "contentType": "application/pdf",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_meta_tulsa",
+    "url": "https://datacenters.atmeta.com/2026/04/hello-tulsa/",
+    "status": "downloaded",
+    "bytes": 109169,
+    "sha256": "75d23528172e25fed14403b27c83b8259b48ea351fee0d557af3279e91fdd4bb",
+    "path": "data\\raw\\datacenters\\dc_meta_tulsa.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_ms_laporte",
+    "url": "https://local.microsoft.com/blog/la-porte-public-meeting-recap/",
+    "status": "downloaded",
+    "bytes": 196336,
+    "sha256": "75044bea282c0511a1b2ddd0526efc597a46cee1f0e09c88233d8dc7a06af162",
+    "path": "data\\raw\\datacenters\\dc_ms_laporte.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_ms_wi",
+    "url": "https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/",
+    "status": "downloaded",
+    "bytes": 169596,
+    "sha256": "b68194156766ac5ccbeb0e042f4972d8842af5e7ebd412e91234fdcb010d0e76",
+    "path": "data\\raw\\datacenters\\dc_ms_wi.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_nc_bridge",
+    "url": "https://content.govdelivery.com/accounts/NCDEQ/bulletins/427509e",
+    "status": "downloaded",
+    "bytes": 36119,
+    "sha256": "acf4720907828091b9b27cb13d4e848797b2f2624c1925feb68882a1699267fd",
+    "path": "data\\raw\\datacenters\\dc_nc_bridge.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_nuai_site",
+    "url": "https://www.newerainfra.ai/_resources/First%20Quarter%20FY26%20Business%20Update.pdf?v=052106",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_nuai_supply",
+    "url": "https://investors.newerainfra.ai/news/news-details/2026/New-Era-Energy--Digital-Announces-450-MW-Behind-the-Meter-Generation-Plan-at-TCDC-with-Thunderhead-Energy-and-TURBINE-X-Energy/default.aspx",
+    "status": "downloaded",
+    "bytes": 91782,
+    "sha256": "2af4875fa33c041edb7674bd1f2014120fb6dc72e6fa064a4389adc2653e0226",
+    "path": "data\\raw\\datacenters\\dc_nuai_supply.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_pa_aws",
+    "url": "https://www.pa.gov/governor/newsroom/2025-press-releases/gov-announces-amazon-to-invest--20b-in-pa--largest-capital-inves",
+    "status": "downloaded",
+    "bytes": 112866,
+    "sha256": "5a348a4b851a0cca7f5870f141f53d62454abb5a37ecfd344f0215270fbcd478",
+    "path": "data\\raw\\datacenters\\dc_pa_aws.html",
+    "contentType": "text/html;charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_rowan",
+    "url": "https://rowan.com/rowan-powers-texas-growth-as-construction-begins-on-300-mw-temple-data-center/",
+    "status": "downloaded",
+    "bytes": 120026,
+    "sha256": "19aba5f213b9cb31fc79419b788c745a332d1311e33734027fc39dbd7365a5ee",
+    "path": "data\\raw\\datacenters\\dc_rowan.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_sb_milam",
+    "url": "https://sbenergy.com/digital-infrastructure/",
+    "status": "downloaded",
+    "bytes": 61147,
+    "sha256": "5171c88afb5896d3fe07615f0e102fae05e19364691564caaa58d162a4bed7c5",
+    "path": "data\\raw\\datacenters\\dc_sb_milam.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_tx_pause",
+    "url": "https://gov.texas.gov/news/post/governor-abbott-directs-tceq-to-halt-data-center-permits",
+    "status": "downloaded",
+    "bytes": 91856,
+    "sha256": "a086fd9cd21098cc15f31c24a22c833abab53bc46bc7057cc778c6f3147c3473",
+    "path": "data\\raw\\datacenters\\dc_tx_pause.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_va2",
+    "url": "https://www.deq.virginia.gov/home/showpublisheddocument/35701/639128956440930000",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_wi_order",
+    "url": "https://psc.wi.gov/Pages/CommissionActions/CasePages/OzaukeeTransmission.aspx",
+    "status": "downloaded",
+    "bytes": 90796,
+    "sha256": "98dfd4a9028f24e9a5beff6bd1436a06a001ec9e7ac311f42fd5b8e6e3583555",
+    "path": "data\\raw\\datacenters\\dc_wi_order.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_wulf_abernathy",
+    "url": "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000026/a_wulfearningsrelease2026-.htm",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "dc_wulf_q2",
+    "url": "https://investors.terawulf.com/news-events/press-releases/detail/144/terawulf-reports-second-quarter-2026-results",
+    "status": "downloaded",
+    "bytes": 302656,
+    "sha256": "c0c073d106ac2fbeed14af81c3c1a9032e629658c1834a4c01eca101417a8c0c",
+    "path": "data\\raw\\datacenters\\dc_wulf_q2.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "ftai_q2",
+    "url": "https://ir.ftaiaviation.com/static-files/a8601ed2-7367-4a33-898f-5163eb8b212d",
+    "status": "failed",
+    "error": "The read operation timed out",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "gev_capacity",
+    "url": "https://www.gevernova.com/news/articles/ge-vernova-releases-second-quarter-2026-financial-results",
+    "status": "downloaded",
+    "bytes": 71641,
+    "sha256": "a44a7bc6ebb68588f1fb9b6efe5bb350ba6e4e956c8b53d1f9a63acfae03ba51",
+    "path": "data\\raw\\datacenters\\gev_capacity.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "gev_crusoe_units",
+    "url": "https://www.gevernova.com/news/press-releases/ge-vernova-crusoe-announce-major-29-unit-aeroderivative-gas-turbine-deliver-ai-data-centers",
+    "status": "downloaded",
+    "bytes": 93204,
+    "sha256": "bfd2ddd3d1def299da7a216fd45aa6c8aac5d01c619f5619f572eb7739c0d296",
+    "path": "data\\raw\\datacenters\\gev_crusoe_units.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "oracle_jupiter",
+    "url": "https://www.oracle.com/news/announcement/public-review-opens-for-updated-project-jupiter-power-plan-2026-06-03/",
+    "status": "downloaded",
+    "bytes": 32187,
+    "sha256": "12aba9ebadec32e8a6045bdb1946c6d76198a8fb484a183e475e25fed1f6db00",
+    "path": "data\\raw\\datacenters\\oracle_jupiter.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "oracle_site_update",
+    "url": "https://blogs.oracle.com/ceo/from-the-q4-earnings-call",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "saline_brief",
+    "url": "https://www.michigan.gov/ag/-/media/Project/Websites/AG/releases/2026/August/U-21990_AG_Appeal-Brief_380362_380364_380878.pdf?hash=72E2301BC667221A3A45D752047F7F4E&rev=ac0f30a1536c42f0bb28fcb1cb441a29",
+    "status": "downloaded",
+    "bytes": 777673,
+    "sha256": "b56c898dce3afe04a27396c1324ce3e74d3059105bbefd04a46b731dfa7440aa",
+    "path": "data\\raw\\datacenters\\saline_brief.pdf",
+    "contentType": "application/pdf",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "saline_dte",
+    "url": "https://www.dteenergy.com/us/en/newsroom/2026/DTE-Energy-intends-to-pause-future-electric-rate-requests-following-upcoming-filing-as-data-centers-come-online.html",
+    "status": "downloaded",
+    "bytes": 44987,
+    "sha256": "bbc8cacd512c14f2dd9691304d4ec1367d5fcccb77047ffeed3f459b5cee184b",
+    "path": "data\\raw\\datacenters\\saline_dte.html",
+    "contentType": "text/html;charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "siemens_slots",
+    "url": "https://assets.siemens-energy.com/dam/70568add-abb0-4cb7-91bc-b41d01144be8/2026-03-30---Q2-FY26-Pre-close-group-call-script_final-pdf_Original%20file.pdf",
+    "status": "downloaded",
+    "bytes": 91288,
+    "sha256": "aff4d44cd6ef26b94c5a4d06da3b72125cc622fbb445dcb2cd4672d9153e5754",
+    "path": "data\\raw\\datacenters\\siemens_slots.pdf",
+    "contentType": "application/pdf",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "vantage_frontier",
+    "url": "https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/",
+    "status": "downloaded",
+    "bytes": 200776,
+    "sha256": "c0aa5125728373f389bfbf6b03f9e4112594eea9562d5080d41461e76151ac61",
+    "path": "data\\raw\\datacenters\\vantage_frontier.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "vantage_lighthouse",
+    "url": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin",
+    "status": "downloaded",
+    "bytes": 234200,
+    "sha256": "6942c9c4a6628e3fd552ff8d4dfe2994e99466a71442fb64259c401841e89582",
+    "path": "data\\raw\\datacenters\\vantage_lighthouse.html",
+    "contentType": "text/html; charset=UTF-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "volta_oracle",
+    "url": "https://voltagrid.com/wp-content/uploads/VoltaGrid-Press-Release_Oracle_October-15th.pdf",
+    "status": "downloaded",
+    "bytes": 111329,
+    "sha256": "e78e2b9a18881bfcf06daba8ed99ee2f49f6b31da496d761c93fcc23f3888f92",
+    "path": "data\\raw\\datacenters\\volta_oracle.pdf",
+    "contentType": "application/pdf",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "wartsila_282",
+    "url": "https://www.wartsila.com/media/news/05-10-2026-wartsila-to-supply-282-mw-onsite-power-solution-for-a-u-s-data-center-as-ai-growth-intensifies-demand-for-reliable-power-3797450",
+    "status": "downloaded",
+    "bytes": 53271,
+    "sha256": "c5aea2f2ca7f0a2e0e28b636b7d222c629a4d6e027915ed1830407c12eba34e5",
+    "path": "data\\raw\\datacenters\\wartsila_282.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  },
+  {
+    "id": "wartsila_slots",
+    "url": "https://www.wartsila.com/investors/blog/post/key-messages-and-q-a-on-interim-report-january-march-2026",
+    "status": "downloaded",
+    "bytes": 61080,
+    "sha256": "03bd3a41b0519c976afb403526b8cc5a7a6213da0f94081cf520b0ab09aed910",
+    "path": "data\\raw\\datacenters\\wartsila_slots.html",
+    "contentType": "text/html; charset=utf-8",
+    "accessed": "2026-10-06"
+  }
+]
