@@ -1,0 +1,6 @@
+id,label,period,value,unit,scope,basis,source,locator,note
+power_h1,Power inventory cash use,H1 2026,46,USD million,FTAI Power,Reported company cash-flow explanation,q2,"Slide 29, footnote to slide 22","Inventory working-capital use; not ending inventory, capex or all Power spending."
+power_fy,Power investment in cash-flow outlook,FY2026,250,USD million,FTAI Power,Management guidance,q2,"Slide 22, Power row",Includes the $46m already reported; do not add $250m to $46m.
+power_extra,Additional Power capital allocation,July 2026 outlook update,180,USD million,FTAI Power,Management allocation announcement,q2,Slide 22 narrative,"Allocation, not evidence of cash spent. Do not add to $250m outlook: categories overlap."
+ap_h1,Aerospace inventory cash use,H1 2026,407,USD million,Aerospace,Reported company cash-flow explanation,q2,"Slide 29, footnote to slide 22",Not ending AP inventory or a complete segment cash-flow statement.
+ppe_h1,Acquisition of PP&E,H1 2026,24.016,USD million,Consolidated,Reported GAAP cash outflow,sec,"Cash-flow statement, PP&E line",Up from $11.085m in H1 2025. No Power/AP allocation; aircraft acquisitions are a separate cash-flow line.

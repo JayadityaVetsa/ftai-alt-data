@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+<rect width="1200" height="820" fill="#f6f4ef"/><style>text{font-family:Arial,sans-serif;fill:#14253d}.muted{fill:#617080}.green{fill:#457764}.small{font-size:14px}.label{font-size:17px}.big{font-size:34px;font-weight:700}</style>
+<text x="48" y="46" class="small">FTAI | CAPITAL BEFORE MONETIZATION</text>
+<text x="48" y="92" class="big">Spending is real. The customer has started paying.</text>
+<text x="48" y="122" class="label">2027 delivery / earnings targets follow. Milestone spacing is illustrative; evidence through October 7, 2026.</text>
+<rect x="48" y="155" width="350" height="125" rx="10" fill="white"/>
+<text x="66" y="200" class="big">$46m</text>
+<text x="66" y="231" class="label">H1 Power inventory cash use</text>
+<text x="66" y="258" class="small">Company-reported; actual period</text>
+<rect x="420" y="155" width="350" height="125" rx="10" fill="white"/>
+<text x="438" y="200" class="big">$250m</text>
+<text x="438" y="231" class="label">FY2026 Power investment</text>
+<text x="438" y="258" class="small">Management outlook; includes $46m</text>
+<rect x="792" y="155" width="350" height="125" rx="10" fill="white"/>
+<text x="810" y="200" class="big">Advance received</text>
+<text x="810" y="231" class="label">Anchor order first payment</text>
+<text x="810" y="258" class="small">Jereh disclosure; amount unknown</text>
+<text x="48" y="330" class="label">Investment / readiness: 2026 evidence</text>
+<text x="740" y="330" class="label">Monetization: 2027 targets</text>
+<path d="M 76 420 H 1115" stroke="#ccd3d5" stroke-width="4"/><path d="M 740 355 V 550" stroke="#dd7955" stroke-dasharray="5 5"/>
+<circle cx="90" cy="420" r="9" fill="#457764"/>
+<text x="48" y="385" class="small">H1 2026</text>
+<text x="48" y="462" class="label">$46m inventory</text>
+<text x="48" y="490" class="small">Actual cash-use disclosure</text>
+<circle cx="310" cy="420" r="9" fill="#457764"/>
+<text x="235" y="385" class="small">July 2026</text>
+<text x="235" y="462" class="label">$1.465bn order</text>
+<text x="235" y="490" class="small">Accepted J&amp;F order</text>
+<circle cx="535" cy="420" r="9" fill="#457764"/>
+<text x="460" y="385" class="small">Sept. 4, 2026</text>
+<text x="460" y="462" class="label">Advance received</text>
+<text x="460" y="490" class="small">Factory expansion reported</text>
+<circle cx="800" cy="420" r="9" fill="#dd7955"/>
+<text x="725" y="385" class="small">Before Nov. 2027</text>
+<text x="725" y="462" class="label">Batch deliveries</text>
+<text x="725" y="490" class="small">Contract schedule</text>
+<circle cx="1035" cy="420" r="9" fill="#dd7955"/>
+<text x="960" y="385" class="small">FY2027</text>
+<text x="960" y="462" class="label">100 / $450m</text>
+<text x="960" y="490" class="small">Units / Power EBITDA target</text>
+<text x="48" y="560" class="label">AP capital-return check: do not confuse more inventory with better productivity.</text>
+<text x="48" y="618" class="big">+105%</text>
+<text x="48" y="645" class="small">Consolidated inventory, Q2 YoY</text>
+<text x="420" y="618" class="big">+61%</text>
+<text x="420" y="645" class="small">AP module output, Q2 YoY</text>
+<text x="792" y="618" class="big">+51%</text>
+<text x="792" y="645" class="small">AP Adjusted EBITDA, Q2 YoY</text>
+<text x="48" y="695" class="small">Hiring: 3 dated posting records + 2 undated leads; no measured monthly hiring-growth series.</text>
+<text x="48" y="723" class="small">Deposit size / FTAI share unknown. No observed accepted-unit or standalone Power EBITDA series.</text>
+<text x="48" y="751" class="small">This establishes a sequence before planned delivery, not an empirically measured 6–18-month lag.</text>
+<text x="48" y="790" class="small">Sources: FTAI Q2 supplement slides 6–7, 13, 22, 29; Jereh July contract pp. 1–3 / September record pp. 2–3.</text>
+</svg>

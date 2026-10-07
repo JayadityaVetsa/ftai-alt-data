@@ -1,0 +1,6 @@
+quarter,date,usdMillion,source,apRevenue,apEbitda,moduleOutput,apSource,inventoryScope
+Q2 2025,2025-06-30,752.866,q225,490.271,164.864,184,ap_sec_q2,Consolidated ending net inventory; not AP-only or Power-only
+Q3 2025,2025-09-30,897.216,q325,517.869,180.421,207,ftai_q2,Consolidated ending net inventory; not AP-only or Power-only
+Q4 2025,2025-12-31,1193.773,sec,563.041,195.022,228,ftai_q2,Consolidated ending net inventory; not AP-only or Power-only
+Q1 2026,2026-03-31,1364.256,q1,743.815,222.576,270,ap_sec_q2,Consolidated ending net inventory; not AP-only or Power-only
+Q2 2026,2026-06-30,1544.592,sec,875.028,249.716,296,ap_sec_q2,Consolidated ending net inventory; not AP-only or Power-only

@@ -1,0 +1,322 @@
+{
+  "asOf": "2026-10-07",
+  "sources": [
+    {
+      "id": "q2",
+      "title": "FTAI Q2 2026 supplement",
+      "url": "https://ir.ftaiaviation.com/static-files/a8601ed2-7367-4a33-898f-5163eb8b212d",
+      "date": "2026-07-29",
+      "locator": "Slides 6–7, 13, 22 and 29",
+      "file": "investment_q2.pdf"
+    },
+    {
+      "id": "q1",
+      "title": "FTAI Q1 2026 results",
+      "url": "https://ir.ftaiaviation.com/news-releases/news-release-details/ftai-aviation-ltd-reports-first-quarter-2026-results-increases",
+      "date": "2026-04-29",
+      "locator": "Consolidated balance sheet; business highlights",
+      "file": "investment_q1.html"
+    },
+    {
+      "id": "q325",
+      "title": "FTAI Q3 2025 supplement",
+      "url": "https://ir.ftaiaviation.com/static-files/aed77832-87d4-48bf-b387-afadf227e301",
+      "date": "2025-10-28",
+      "locator": "Slide 35: condensed balance sheet",
+      "file": "investment_q325.pdf"
+    },
+    {
+      "id": "q225",
+      "title": "FTAI Q2 2025 results",
+      "url": "https://ir.ftaiaviation.com/news-releases/news-release-details/ftai-aviation-ltd-reports-second-quarter-2025-results-declares",
+      "date": "2025-07-30",
+      "locator": "Consolidated balance sheet",
+      "file": "investment_q225.html"
+    },
+    {
+      "id": "sec",
+      "title": "FTAI Q2 2026 Form 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1590364/000162828026051412/ftai-20260630.htm",
+      "date": "2026-07-31",
+      "locator": "Balance sheet; cash-flow statement; inventory / cash-flow policies; Note 11",
+      "file": "investment_sec.html"
+    },
+    {
+      "id": "release",
+      "title": "FTAI Q2 2026 results filed with SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1590364/000162828026050622/ftai6302026earningsrelease.htm",
+      "date": "2026-07-29",
+      "locator": "Business highlights: FY2027 Power guidance",
+      "file": "investment_release.html"
+    },
+    {
+      "id": "tour",
+      "title": "FTAI Montreal site tour",
+      "url": "https://ir.ftaiaviation.com/static-files/76403092-47a7-4874-abf6-62986762f8cd",
+      "date": "2025-11-18",
+      "locator": "Slides 9–13: exchange pool, dedicated lines, training academy",
+      "file": "investment_tour.pdf"
+    },
+    {
+      "id": "contract",
+      "title": "Jereh major-contract announcement",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-07-23/1225436739.PDF",
+      "date": "2026-07-23",
+      "locator": "PDF pp. 1–3; announcement signed July 22",
+      "file": "jereh_contract.pdf"
+    },
+    {
+      "id": "update",
+      "title": "Jereh investor activity record",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225550221.PDF",
+      "date": "2026-09-05",
+      "locator": "PDF pp. 2–3, questions 2–4; September 4 meeting",
+      "file": "jereh_update.pdf"
+    }
+  ],
+  "inventory": [
+    {
+      "quarter": "Q2 2025",
+      "date": "2025-06-30",
+      "usdMillion": 752.866,
+      "source": "q225"
+    },
+    {
+      "quarter": "Q3 2025",
+      "date": "2025-09-30",
+      "usdMillion": 897.216,
+      "source": "q325"
+    },
+    {
+      "quarter": "Q4 2025",
+      "date": "2025-12-31",
+      "usdMillion": 1193.773,
+      "source": "sec"
+    },
+    {
+      "quarter": "Q1 2026",
+      "date": "2026-03-31",
+      "usdMillion": 1364.256,
+      "source": "q1"
+    },
+    {
+      "quarter": "Q2 2026",
+      "date": "2026-06-30",
+      "usdMillion": 1544.592,
+      "source": "sec"
+    }
+  ],
+  "capital": [
+    {
+      "id": "power_h1",
+      "label": "Power inventory cash use",
+      "period": "H1 2026",
+      "value": 46,
+      "unit": "USD million",
+      "scope": "FTAI Power",
+      "basis": "Reported company cash-flow explanation",
+      "source": "q2",
+      "locator": "Slide 29, footnote to slide 22",
+      "note": "Inventory working-capital use; not ending inventory, capex or all Power spending."
+    },
+    {
+      "id": "power_fy",
+      "label": "Power investment in cash-flow outlook",
+      "period": "FY2026",
+      "value": 250,
+      "unit": "USD million",
+      "scope": "FTAI Power",
+      "basis": "Management guidance",
+      "source": "q2",
+      "locator": "Slide 22, Power row",
+      "note": "Includes the $46m already reported; do not add $250m to $46m."
+    },
+    {
+      "id": "power_extra",
+      "label": "Additional Power capital allocation",
+      "period": "July 2026 outlook update",
+      "value": 180,
+      "unit": "USD million",
+      "scope": "FTAI Power",
+      "basis": "Management allocation announcement",
+      "source": "q2",
+      "locator": "Slide 22 narrative",
+      "note": "Allocation, not evidence of cash spent. Do not add to $250m outlook: categories overlap."
+    },
+    {
+      "id": "ap_h1",
+      "label": "Aerospace inventory cash use",
+      "period": "H1 2026",
+      "value": 407,
+      "unit": "USD million",
+      "scope": "Aerospace",
+      "basis": "Reported company cash-flow explanation",
+      "source": "q2",
+      "locator": "Slide 29, footnote to slide 22",
+      "note": "Not ending AP inventory or a complete segment cash-flow statement."
+    },
+    {
+      "id": "ppe_h1",
+      "label": "Acquisition of PP&E",
+      "period": "H1 2026",
+      "value": 24.016,
+      "unit": "USD million",
+      "scope": "Consolidated",
+      "basis": "Reported GAAP cash outflow",
+      "source": "sec",
+      "locator": "Cash-flow statement, PP&E line",
+      "note": "Up from $11.085m in H1 2025. No Power/AP allocation; aircraft acquisitions are a separate cash-flow line."
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-11-18",
+      "lane": "AP platform",
+      "title": "Dedicated module lines and training academy",
+      "detail": "Montreal tour describes a rotable exchange pool and module-specialized lines. This is AP infrastructure that could support Power, not a dedicated Mod-1 line count.",
+      "basis": "Company-reported capabilities",
+      "source": "tour",
+      "locator": "Slides 9–13"
+    },
+    {
+      "date": "2026-06-30",
+      "lane": "Power investment",
+      "title": "$46m Power inventory cash use in H1",
+      "detail": "Cash committed before the anchor contract's scheduled 2027 deliveries; H1 aggregate cannot be split into quarters.",
+      "basis": "Reported period amount",
+      "source": "q2",
+      "locator": "Slides 22 and 29"
+    },
+    {
+      "date": "2026-07-22",
+      "lane": "Customer funding",
+      "title": "$1.465bn accepted J&F purchase order",
+      "detail": "Five-year master framework; initial order includes staged production and testing payments. Equipment price can fall by up to 10% for performance shortfall.",
+      "basis": "Signed order; company disclosure",
+      "source": "contract",
+      "locator": "PDF pp. 1–2"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "Power investment",
+      "title": "$250m FY2026 Power investment outlook",
+      "detail": "$46m H1 amount is included; implied remaining $204m is guidance arithmetic, not cash already spent.",
+      "basis": "Management guidance",
+      "source": "q2",
+      "locator": "Slide 22"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "Production readiness",
+      "title": "Power-tagged Montreal / Rome expansion mapped",
+      "detail": "Slide 7 maps +15,000 sq ft at Montreal and +50,000 sq ft at Rome with Power capability alongside AP / testing. These are shared expansion initiatives, not verified dedicated Mod-1 floor space. Global 3,000-module capacity includes partners and full utilization.",
+      "basis": "Company expansion disclosure / capacity target",
+      "source": "q2",
+      "locator": "Slides 7, 13 and endnotes"
+    },
+    {
+      "date": "2026-09-04",
+      "lane": "Customer funding",
+      "title": "First customer advance reported received",
+      "detail": "Jereh confirms receipt for the same $1.465bn order. Amount, percentage, receipt date and cash available to FTAI are undisclosed. It says no 2026 earnings impact from this order.",
+      "basis": "Reported receipt by meeting date",
+      "source": "update",
+      "locator": "PDF p. 2, question 2"
+    },
+    {
+      "date": "2026-09-04",
+      "lane": "Production readiness",
+      "title": "Jereh reports expansion / rented factory space",
+      "detail": "Existing premises expanded and leased in China and North America; Dubai base progressing. Multiple turbine suppliers and programs share this capacity; no Mod-1 line rate disclosed.",
+      "basis": "Company-reported actions",
+      "source": "update",
+      "locator": "PDF p. 3, questions 3–4"
+    },
+    {
+      "date": "2027-11-01",
+      "lane": "Deliveries / earnings",
+      "title": "Batch delivery deadline: before November 2027",
+      "detail": "Jereh's contract says before November; FTAI slide says through November. Keep the tighter wording visible; exact monthly acceptance schedule is unavailable.",
+      "basis": "Contract schedule, not actual shipment",
+      "source": "contract",
+      "locator": "PDF p. 2, delivery term"
+    },
+    {
+      "date": "2027-12-31",
+      "lane": "Deliveries / earnings",
+      "title": "100 Mod-1 units / $450m Power EBITDA target",
+      "detail": "Company FY2027 targets, not observed throughput or booked earnings. No standalone realized Power EBITDA series or verified accepted-unit series is available in this audit.",
+      "basis": "Management guidance",
+      "source": "release",
+      "locator": "Business highlights; Q1 release for 100-unit production target"
+    }
+  ],
+  "translations": [
+    {
+      "source": "contract",
+      "page": 2,
+      "original": "于生产与验收测试环节分阶段支付进度款",
+      "translation": "Progress payments are made in stages during production and acceptance testing.",
+      "check": "Consistent with FTAI slide 6 milestone-payment description; percentages undisclosed."
+    },
+    {
+      "source": "contract",
+      "page": 2,
+      "original": "最终款项支付时间不超过设备抵达交付地点后90天",
+      "translation": "Final payment is due no later than 90 days after equipment reaches the delivery location.",
+      "check": "Cash deadline is not a revenue-recognition rule or unconditional acceptance date; whitespace normalized."
+    },
+    {
+      "source": "update",
+      "page": 2,
+      "original": "截止目前，公司已收到该订单约定的首笔预付款",
+      "translation": "As of the meeting, the company has received the first advance payment specified in this order.",
+      "check": "Receipt is stated, not merely a promised deposit. Amount and FTAI share are not given."
+    },
+    {
+      "source": "update",
+      "page": 2,
+      "original": "对2026年度经营业绩无影响",
+      "translation": "No impact on 2026 operating results from this order is expected.",
+      "check": "Jereh statement about this order, not a statement of zero FTAI Power spending or all-segment revenue."
+    }
+  ],
+  "coverage": [
+    {
+      "indicator": "Power inventory cash use",
+      "status": "H1 actual and FY2026 guidance found; quarterly split unavailable"
+    },
+    {
+      "indicator": "Hiring",
+      "status": "5 reviewed leads; 3 dated posting records; historical monthly census unavailable"
+    },
+    {
+      "indicator": "Dedicated conversion / package capacity",
+      "status": "Facility and functional evidence found; measured Mod-1 line rate unavailable"
+    },
+    {
+      "indicator": "Customer funding",
+      "status": "First advance reported received; amount and allocation unavailable"
+    },
+    {
+      "indicator": "Procurement / imports",
+      "status": "Supplier relationships disclosed; no identified Mod-1 BOM quantities or matched shipping series"
+    },
+    {
+      "indicator": "Employees",
+      "status": "No reviewed historical employee census by Power function/location"
+    },
+    {
+      "indicator": "Deliveries / EBITDA",
+      "status": "FY2027 targets found; realized standalone series unavailable"
+    },
+    {
+      "indicator": "Lead / lag test",
+      "status": "Sequence supports investment before planned monetization; a measured 6–18-month lag is not established"
+    },
+    {
+      "indicator": "Additional industrial-engineer lead",
+      "status": "Posting 4393575980 indexed with Power layout/tooling duties, but direct page redirects as expired; excluded from an additional role count and monthly series."
+    }
+  ]
+}

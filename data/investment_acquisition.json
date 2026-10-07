@@ -1,0 +1,113 @@
+[
+  {
+    "id": "q2",
+    "title": "FTAI Q2 2026 supplement",
+    "url": "https://ir.ftaiaviation.com/static-files/a8601ed2-7367-4a33-898f-5163eb8b212d",
+    "date": "2026-07-29",
+    "locator": "Slides 6–7, 13, 22 and 29",
+    "file": "data\\raw\\investment_q2.pdf",
+    "accessed": "2026-10-07T17:47:15.016806+00:00",
+    "status": "Local original retained",
+    "bytes": 4958804,
+    "sha256": "4df0fce4b38e98b949aea65b7ded8a4f5e43ecf39930b803f397b10fd640b1df",
+    "pages": 49
+  },
+  {
+    "id": "q1",
+    "title": "FTAI Q1 2026 results",
+    "url": "https://ir.ftaiaviation.com/news-releases/news-release-details/ftai-aviation-ltd-reports-first-quarter-2026-results-increases",
+    "date": "2026-04-29",
+    "locator": "Consolidated balance sheet; business highlights",
+    "file": "data\\raw\\investment_q1.html",
+    "accessed": "2026-10-07T17:47:17.118691+00:00",
+    "status": "Local original retained",
+    "bytes": 145823,
+    "sha256": "f8a8be42199f4c9ac572c3d0c2d647eaa3bf640e52285beb584dac912ee84915"
+  },
+  {
+    "id": "q325",
+    "title": "FTAI Q3 2025 supplement",
+    "url": "https://ir.ftaiaviation.com/static-files/aed77832-87d4-48bf-b387-afadf227e301",
+    "date": "2025-10-28",
+    "locator": "Slide 35: condensed balance sheet",
+    "file": "data\\raw\\investment_q325.pdf",
+    "accessed": "2026-10-07T17:47:17.623517+00:00",
+    "status": "Local original retained",
+    "bytes": 6538046,
+    "sha256": "4486601ac8f73904a1ba6b38cdcbe520651524947e0385873da28501110ab4c4",
+    "pages": 43
+  },
+  {
+    "id": "q225",
+    "title": "FTAI Q2 2025 results",
+    "url": "https://ir.ftaiaviation.com/news-releases/news-release-details/ftai-aviation-ltd-reports-second-quarter-2025-results-declares",
+    "date": "2025-07-30",
+    "locator": "Consolidated balance sheet",
+    "file": "data\\raw\\investment_q225.html",
+    "accessed": "2026-10-07T17:47:21.652564+00:00",
+    "status": "Local original retained",
+    "bytes": 240122,
+    "sha256": "a00d49978641d84c0dc0de1787f63ec4ef0c7305b3ebf46cf5635103ef4faafd"
+  },
+  {
+    "id": "sec",
+    "title": "FTAI Q2 2026 Form 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590364/000162828026051412/ftai-20260630.htm",
+    "date": "2026-07-31",
+    "locator": "Balance sheet; cash-flow statement; inventory / cash-flow policies; Note 11",
+    "file": "investment_sec.html",
+    "accessed": "2026-10-07T17:47:23.020543+00:00",
+    "status": "Acquisition failed; browser review retained",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "release",
+    "title": "FTAI Q2 2026 results filed with SEC",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590364/000162828026050622/ftai6302026earningsrelease.htm",
+    "date": "2026-07-29",
+    "locator": "Business highlights: FY2027 Power guidance",
+    "file": "investment_release.html",
+    "accessed": "2026-10-07T17:47:23.132025+00:00",
+    "status": "Acquisition failed; browser review retained",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "tour",
+    "title": "FTAI Montreal site tour",
+    "url": "https://ir.ftaiaviation.com/static-files/76403092-47a7-4874-abf6-62986762f8cd",
+    "date": "2025-11-18",
+    "locator": "Slides 9–13: exchange pool, dedicated lines, training academy",
+    "file": "data\\raw\\investment_tour.pdf",
+    "accessed": "2026-10-07T17:47:23.202933+00:00",
+    "status": "Local original retained",
+    "bytes": 3845491,
+    "sha256": "8961d341bfa3749ad23f7148a0648e2debb5ac33dbb103f11427ba0b83b4309b",
+    "pages": 23
+  },
+  {
+    "id": "contract",
+    "title": "Jereh major-contract announcement",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-07-23/1225436739.PDF",
+    "date": "2026-07-23",
+    "locator": "PDF pp. 1–3; announcement signed July 22",
+    "file": "data\\raw\\jereh_contract.pdf",
+    "accessed": "2026-10-07T17:47:25.545732+00:00",
+    "status": "Local original retained",
+    "bytes": 90837,
+    "sha256": "79c3f5d1138c858f1de7a27cb5869d2dd60cb3bc277bcfbf4528c1c02803765e",
+    "pages": 3
+  },
+  {
+    "id": "update",
+    "title": "Jereh investor activity record",
+    "url": "https://static.cninfo.com.cn/finalpage/2026-09-05/1225550221.PDF",
+    "date": "2026-09-05",
+    "locator": "PDF pp. 2–3, questions 2–4; September 4 meeting",
+    "file": "data\\raw\\jereh_update.pdf",
+    "accessed": "2026-10-07T17:47:25.752091+00:00",
+    "status": "Local original retained",
+    "bytes": 112596,
+    "sha256": "2483239e641fc9890020b5662cc907df0223a183c3177fe980ea419ff2e12573",
+    "pages": 4
+  }
+]
